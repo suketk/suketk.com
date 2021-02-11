@@ -22,6 +22,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 show_excerpts: true
 
+header_pages:
+  - about.md
+
 google_analytics: G-4SGNVDRFF7
 
 # Build settings

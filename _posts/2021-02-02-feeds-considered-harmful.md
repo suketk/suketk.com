@@ -7,7 +7,7 @@ Technology is merely a tool. It can work for us or against us. If we use it with
 
 This post is about one principle that transformed my relationship with technology: feeds considered harmful. Feeds slow you down, take you in unwanted directions and encourage consumption over action. Adopting the principle enabled me to effectively focus, prioritize and act on my goals.
 
-A feed is a set of algorithmically generated content provided to the user without explicit input. Almost all of our interactions with services begin with a feed - Facebook, Instagram, YouTube, Twitch, Netflix, Reddit, Amazon, News. You name the app, it has a feed front and center. (Although this definition doesn’t include messaging apps or RSS feeds, many of the concerns below still hold.)
+A feed is a set of algorithmically generated content provided to the user without explicit input. Almost all of our interactions with services begin with a feed - Facebook, Instagram, YouTube, Twitch, Netflix, Reddit, Amazon, News. You name the app, it has a feed front and center. (Although this definition doesn’t include messaging apps or RSS feeds, some of the concerns below still hold.)
 
 Feeds distract and slow you down. Ever catch yourself binging on The Office clips an hour after you open YouTube to learn how to revive your dying succulent? This is no accident - it’s the digital equivalent of placing the milk in the back of the grocery store. Even if you have a clear purpose for navigating to a site, it hijacks your attention with content the Algorithm has concluded you can’t resist. Instant gratification is only a click away.
 
@@ -20,8 +20,13 @@ You can still explore without feeds. New ideas surface everywhere. In everyday c
 Speaking of execution, here’s how to reduce your dependence on feeds:
 * **Identify your triggers**: What feeds consume your attention the most? As a proxy, check your most visited sites on desktop (yes, that is a feed too!) or most used apps on mobile (Screen Time for iOS, Digital Wellbeing for Android).
 * **Eliminate the feed.**
-	* (Ideal) Remove the feed entirely. The ideal page is blank, save for a search bar - intentional begins with intent! Such Chrome extensions exist for the most popular services: Facebook, Instagram, YouTube, etc. 
-	* (Backup) If the above isn’t entirely possible (say because you’re an active mobile user), add friction. A very effective solution is to uninstall the app and only access the service through the browser. Your muscle memory in the first few days will be a great reminder of how unconsciously you used these feeds.
+	* (Ideal) Remove the feed entirely. The ideal page is blank, save for a search bar - intentional begins with intent! Such Chrome extensions exist for the most popular services: [Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en){:target="_blank"}, [YouTube](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid?hl=en){:target="_blank"}, etc. 
+	* (Backup) If the above isn’t entirely possible (say because you’re an active mobile user), add friction. A very effective solution is to uninstall the app and only access the service through the browser. Your muscle memory in the first few days will be a great reminder of how unconsciously you used these feeds, but it won't take long to unlearn.
 * **Repeat for the new triggers that emerge.** As your usual suspects are solved for, you will reach for new distractions. It will take a few cycles to fully eliminate them.
 
 Side effects may include mild FOMO (which will soon subside), an enhanced feeling of control and excessive amounts of spare time to live life on your terms, not the Algorithm’s.
+
+{::options parse_block_html="true" /}
+<div class="highlight-card">
+*Want to use technology more intentionally, but keep getting sucked back in? Join a Moai - an intimate social support group that holds you accountable, provides motivation and lets you learn from other's mistakes. **Sign up [here](https://forms.gle/3STBq7mkP1Z5SczC6){:target="_blank"}.***
+</div>
