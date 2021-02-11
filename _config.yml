@@ -18,7 +18,7 @@ title: Suket Karnawat
 email: suketk@gmail.com
 # description: Personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://suketk.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 show_excerpts: true
 
