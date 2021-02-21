@@ -18,11 +18,11 @@ You may be asking: don’t feeds broaden our exposure to new ideas? Yes, they do
 You can still explore without feeds. New ideas surface everywhere. In everyday conversations, which are inherently tailored to mutual interests. From resources in the exploit phase, as a springboard into complementary subjects. By browsing the library, a physical feed optimized for education instead of engagement. Instead of preventing exploration altogether, eliminating feeds recalibrates our explore-exploit balance by compelling us to adopt healthier forms of discovery that inevitably leave more energy for execution.
 
 Speaking of execution, here’s how to reduce your dependence on feeds:
-* **Identify your triggers**: What feeds consume your attention the most? As a proxy, check your most visited sites on desktop (yes, that is a feed too!) or most used apps on mobile (Screen Time for iOS, Digital Wellbeing for Android).
-* **Eliminate the feed.**
+1. **Identify your triggers**: What feeds consume your attention the most? As a proxy, check your most visited sites on desktop (yes, that is a feed too!) or most used apps on mobile (Screen Time for iOS, Digital Wellbeing for Android).
+1. **Eliminate the feed.**
 	* (Ideal) Remove the feed entirely. The ideal page is blank, save for a search bar - intentional begins with intent! Such Chrome extensions exist for the most popular services: [Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en){:target="_blank"}, [YouTube](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid?hl=en){:target="_blank"}, etc. 
 	* (Backup) If the above isn’t entirely possible (say because you’re an active mobile user), add friction. A very effective solution is to uninstall the app and only access the service through the browser. Your muscle memory in the first few days will be a great reminder of how unconsciously you used these feeds, but it won't take long to unlearn.
-* **Repeat for the new triggers that emerge.** As your usual suspects are solved for, you will reach for new distractions. It will take a few cycles to fully eliminate them.
+1. **Repeat for the new triggers that emerge.** As your usual suspects are solved for, you will reach for new distractions. It will take a few cycles to fully eliminate them.
 
 Side effects may include mild FOMO (which will soon subside), an enhanced feeling of control and excessive amounts of spare time to live life on your terms, not the Algorithm’s.
 
