@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Suket Karnawat
-email: suketk@gmail.com
-# description: Personal blog.
+description: Follow me on my journey in developing the principles for an intentional life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://suketk.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
@@ -32,6 +31,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Thought Space vs Reality"
-date:   2021-02-21 12:22:59 -0500
+title:  "Thought Space vs. Reality"
+date:   2021-02-21 12:00:00 -0500
+description: Hypothesize less. Validate more.
 ---
 There are two worlds - the one in our head and the one that is real. It’s easy to conflate the two; perception is reality, the saying goes. But they are separate. Perception is just a representation of reality and as we know, [the map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation).
 
