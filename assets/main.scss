@@ -19,22 +19,16 @@
 	margin-bottom: 0px;
 }
 
-.email-card {
+#mc_embed_signup {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
-  padding: $spacing-unit/3;
-  text-align: center;
-  margin: auto;
-  width: 60%;
 }
 
-.email-card input {
-	border-radius: 2px;
-	border: 1px solid lighten($brand-color, 20%);
-	text-align: center;
+#mc_embed_signup input[type=submit] {
+  background-color: lighten($brand-color, 20%);
 }
 
-.email-card input[type=submit] {
-	background-color: lighten($brand-color, 20%);
-	margin: 0px 4px;
+.image {
+  text-align: right;
+  font-size: small;
 }
