@@ -18,12 +18,14 @@ He laughingly nodded, much to my dismay. The distress was short-lived though. Un
 
 Right behind us, a group was congregated in a boisterous huddle. They were hyping up their friend. “This is your moment,” one encouraged. “Don’t be a coward,” the other taunted. *(It’s important to diversify your motivational techniques.)* He trudged to the edge to take a final look at the task ahead of him. He glanced back at his pals, the fear palpable in his eyes. They were still cheering him on. The gesture of support gave him the burst of confidence he needed. He closed his eyes, and dove off the cliff into the water.
 
-{::options parse_block_html="true" /}
+{% include image.html url="/assets/cliff_diving.jpg" description="Pentax K1000 · 35mm · Portra 400" %}
+
+<!-- {::options parse_block_html="true" /}
 <div class="image">
-![](assets/cliff_diving.jpg)
-*Pentax K1000 · 35mm · Portra 400*
+![]()
+**
 </div>
-{::options parse_block_html="false" /}
+{::options parse_block_html="false" /} -->
 
 A second later, he emerged from the surface. Alive, swimming back towards land. Now that we verified the dubious claims of the first stranger, the five of us gathered and the negotiations began. Who would be the sacrificial lamb? Mark bravely volunteered and I offered to document it, hoping the generosity would veil my fear. This way, I thought, I could go last.
 
