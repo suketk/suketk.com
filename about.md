@@ -12,4 +12,4 @@ The plan was simple. Work hard. Save a lot of money. Retire early. Enjoy the rew
 
 ### Contact Me
 
-Have comments, feedback or just want to say hi? My email is me at suketk.com.
+Have comments, feedback or just want to say hi? My email is me [at] suketk.com.
