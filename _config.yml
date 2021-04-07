@@ -19,7 +19,7 @@ description: Follow me on my journey in developing the principles for an intenti
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://suketk.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
-show_excerpts: true
+# show_excerpts: true
 
 header_pages:
   - about.md
