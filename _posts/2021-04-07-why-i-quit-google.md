@@ -24,11 +24,11 @@ Though I was certain about my decision, it always nagged me that people weren’
 
 ### An Intentional Life
 
-Good decisions require sound frameworks. In this case, that meant determining the characteristics of a meaningful life. This was a necessary investment. It not only enabled me to [take the leap](/taking-the-leap), but will continue to act as a measuring stick to evaluate future decisions.
+Good decisions require sound frameworks. In this case, that meant determining the characteristics of a meaningful life. This was a necessary investment. It not only enabled me to [take the leap](https://suketk.com/taking-the-leap), but will continue to act as a measuring stick to evaluate future decisions.
 
-{% include image.html url="/assets/principles.svg" description="Principles for an intentional life." %}
+{% include image.html url="https://suketk.com/assets/principles.svg" description="Principles for an intentional life." %}
 
-*Note: It goes without saying that this is my personal definition. I am not asserting that this is universal. I acknowledge that it may evolve, but I don’t expect it to change significantly. It is the outcome of years of reflection on mistakes, regrets and treasured memories. Rather than hypothesizing its completeness, I want to [validate it and iterate](/thought-space-vs-reality).*
+*Note: It goes without saying that this is my personal definition. I am not asserting that this is universal. I acknowledge that it may evolve, but I don’t expect it to change significantly. It is the outcome of years of reflection on mistakes, regrets and treasured memories. Rather than hypothesizing its completeness, I want to [validate it and iterate](https://suketk.com/thought-space-vs-reality).*
 
 #### Health & Happiness
 
@@ -86,7 +86,7 @@ My priority is to establish a strong foundation first. This is because changing 
 
 ### Health & Happiness
 
-Instead of identifying the “correct” set of habits from the onset, I decided to start somewhere and iterate with a [tight feedback loop](/thought-space-vs-reality). Learning from my mistakes plays an integral role in this process. I check in with myself weekly and put the learnings in action the next week. Here are some questions that help me reflect:
+Instead of identifying the “correct” set of habits from the onset, I decided to start somewhere and iterate with a [tight feedback loop](https://suketk.com/thought-space-vs-reality). Learning from my mistakes plays an integral role in this process. I check in with myself weekly and put the learnings in action the next week. Here are some questions that help me reflect:
 *   Current State: Am I content? Am I alert and present? 
 *   Challenges: Did I experience negative emotions or low energy? Why?
 *   Fix: Did not doing an existing habit cause this? If not, what new habits can help me overcome these obstacles?
@@ -128,8 +128,8 @@ Let’s address the elephant in the room. What will I do for a living? I have no
 *   **I have a long runway.** I saved a lot of money and have near-zero living expenses because I live in a paid off home.
 *   **I have no family obligations.** I’m single ([ladies](https://media4.giphy.com/media/xUOwFRe7138b0ApW3C/giphy.gif)???) and am not responsible for anyone. This is the best time to take a risk. This was indeed the biggest regret I heard from older colleagues - they wish they’d taken a chance before they had a family and a mortgage.
 
-Ok, maybe that’s not entirely accurate. Though I’m not certain *how* I’ll make money, I do have a strong hunch about the problem space I’ll be working in. As I reflected on what prevented me from living a meaningful life, I noticed a very direct through line: an unhealthy relationship with technology. From the mental health drawbacks of social media to [feeds limiting effectiveness](/feeds-considered-harmful) to the ubiquity of smartphones preventing authentic connection and experiences, this is truly an epidemic in the making. It is the cigarette of our generation; it affects us, our parents and our children. We’re just beginning to realize the problem, but no one knows how to fix it. My plan is to start by using technology more intentionally in my individual journey, but ultimately I have conviction my learnings will be valuable to others. For such a looming problem, there is no shortage of value to create and capture.
+Ok, maybe that’s not entirely accurate. Though I’m not certain *how* I’ll make money, I do have a strong hunch about the problem space I’ll be working in. As I reflected on what prevented me from living a meaningful life, I noticed a very direct through line: an unhealthy relationship with technology. From the mental health drawbacks of social media to [feeds limiting effectiveness](https://suketk.com/feeds-considered-harmful) to the ubiquity of smartphones preventing authentic connection and experiences, this is truly an epidemic in the making. It is the cigarette of our generation; it affects us, our parents and our children. We’re just beginning to realize the problem, but no one knows how to fix it. My plan is to start by using technology more intentionally in my individual journey, but ultimately I have conviction my learnings will be valuable to others. For such a looming problem, there is no shortage of value to create and capture.
 
 ### What's there to lose?
 
-Quitting Google is an experiment that has unlimited upside and limited downside. My only cost is opportunity cost, while the payoff is an infinitely richer life. I call it an experiment because I acknowledge that perhaps I can’t have it all - maybe I’m idealizing post-work life and I took my previous life for granted. However, even failure would be a minor success. If I ever have to go back to a job, I’ll be able to better cope with it due to a solid foundation of health, happiness and effectiveness. Also, by experiencing both extremes I’ll gain the perspective to strike a better balance and will be immune to the grass is greener syndrome. As far as worst cases go, that’s about as good as it gets - it would have been crazy not to [take the leap](/taking-the-leap) and see what happens.
+Quitting Google is an experiment that has unlimited upside and limited downside. My only cost is opportunity cost, while the payoff is an infinitely richer life. I call it an experiment because I acknowledge that perhaps I can’t have it all - maybe I’m idealizing post-work life and I took my previous life for granted. However, even failure would be a minor success. If I ever have to go back to a job, I’ll be able to better cope with it due to a solid foundation of health, happiness and effectiveness. Also, by experiencing both extremes I’ll gain the perspective to strike a better balance and will be immune to the grass is greener syndrome. As far as worst cases go, that’s about as good as it gets - it would have been crazy not to [take the leap](https://suketk.com/taking-the-leap) and see what happens.
