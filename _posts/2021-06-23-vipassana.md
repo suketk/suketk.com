@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Vipassana"
+date:   2021-06-23 12:00:00 -0500
+description: An homage to a well-crafted experience.
+---
 This essay is not:
 *   A pitch for how Vipassana will change your life.
 *   A detailed explanation of the course.
@@ -37,7 +43,7 @@ By eliminating any profit motive, it ensures that the organization only survives
 
 ## Experience over Knowledge
 
-**Principle:** Practical experience is more valuable than abstract theory. The two represent different [levels](suketk.com/thought-space-vs-reality) of understanding: intellectual vs experiential. Intellectual understanding is insight derived from critical thinking, while experiential understanding is obtained through direct personal experience. Intellectual understanding alone is not enough; you [don’t fully understand anything until you experience it](https://www.youtube.com/watch?v=oRG2jlQWCsY). You don’t know the gratification of entrepreneurship until you have your first paying customer. You don’t know the fear of the unknown until you [take the leap](suketk.com/taking-the-leap). You don’t know the reward of a silent meditation course until you attend Vipassana. But don’t take my word for it - by focusing on experiential understanding, you can do it and decide for yourself.
+**Principle:** Practical experience is more valuable than abstract theory. The two represent different [levels]({{site.url}}/thought-space-vs-reality) of understanding: intellectual vs experiential. Intellectual understanding is insight derived from critical thinking, while experiential understanding is obtained through direct personal experience. Intellectual understanding alone is not enough; you [don’t fully understand anything until you experience it](https://www.youtube.com/watch?v=oRG2jlQWCsY). You don’t know the gratification of entrepreneurship until you have your first paying customer. You don’t know the fear of the unknown until you [take the leap]({{site.url}}/taking-the-leap). You don’t know the reward of a silent meditation course until you attend Vipassana. But don’t take my word for it - by focusing on experiential understanding, you can do it and decide for yourself.
 
 **How it’s applied:** For every 10 hours of meditation, there is only 1 hour of discourse. The purpose of the discourse is to contextualize what you practiced that day. Since it occasionally contains disputed ideas such as reincarnation, Goenka-ji makes it abundantly clear that you are free to reject the theory completely. The only measure of success is that you experience the benefits through continued practice of the technique.
 
