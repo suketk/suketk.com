@@ -30,11 +30,11 @@ _Even if you aren’t interested in attending, the principles upon which it was 
 
 **Principle:** The incentives of the students and the organization must be aligned. 
 
-**How it’s applied:** The website explains their solution best:
+**How it’s applied:** The website explains their approach best (emphasis mine):
 
-> According to the tradition of pure Vipassana, courses are run solely on a donation basis. Donations are accepted only from those who have completed at least one ten-day course with S.N. Goenka or one of his assisting teachers. Someone taking the course for the first time may give a donation on the last day of the course or any time thereafter.
+> According to the tradition of pure Vipassana, courses are run solely on a donation basis. **Donations are accepted only from those who have completed at least one ten-day course with S.N. Goenka or one of his assisting teachers.** Someone taking the course for the first time may give a donation on the last day of the course or any time thereafter.
 
-> In this way courses are supported by those who have realized for themselves the benefits of the practice. Wishing to share these benefits with others, one gives a donation according to one's means and volition. Such donations are the only source of funding for courses in this tradition around the world. There is no wealthy foundation or individual sponsoring them. Neither the teachers nor the organizers receive any kind of payment for their service. Thus, the spread of Vipassana is carried out with purity of purpose, free from any commercialism.
+> In this way courses are supported by those who have realized for themselves the benefits of the practice. Wishing to share these benefits with others, one gives a donation according to one's means and volition. Such donations are the only source of funding for courses in this tradition around the world. **There is no wealthy foundation or individual sponsoring them. Neither the teachers nor the organizers receive any kind of payment for their service.** Thus, the spread of Vipassana is carried out with purity of purpose, free from any commercialism.
 
 > Whether a donation is large or small, it should be given with the wish to help others: 'The course I have taken has been paid for through the generosity of past students; now let me give something towards the cost of a future course, so that others may also benefit by this technique.'
 
@@ -45,12 +45,12 @@ By eliminating any profit motive, it ensures that the organization only survives
 
 **Principle:** Practical experience is more valuable than abstract theory. The two represent different [levels]({{site.url}}/thought-space-vs-reality) of understanding: intellectual vs experiential. Intellectual understanding is insight derived from critical thinking, while experiential understanding is obtained through direct personal experience. Intellectual understanding alone is not enough; you [don’t fully understand anything until you experience it](https://www.youtube.com/watch?v=oRG2jlQWCsY). You don’t know the gratification of entrepreneurship until you have your first paying customer. You don’t know the fear of the unknown until you [take the leap]({{site.url}}/taking-the-leap). You don’t know the reward of a silent meditation course until you attend Vipassana. But don’t take my word for it - by focusing on experiential understanding, you can do it and decide for yourself.
 
-**How it’s applied:** For every 10 hours of meditation, there is only 1 hour of discourse. The purpose of the discourse is to contextualize what you practiced that day. Since it occasionally contains disputed ideas such as reincarnation, Goenka-ji makes it abundantly clear that you are free to reject the theory completely. The only measure of success is that you experience the benefits through continued practice of the technique.
+**How it’s applied:** For every 10 hours of meditation, there is only 1 hour of discourse. The purpose of the discourse is to contextualize what you practiced that day. Since it occasionally contains disputed ideas such as reincarnation, Goenka-ji makes it abundantly clear that you are free to reject the theory completely. The only measure of success is that you experience the benefits of Vipassana through continued practice of the technique.
 
 
 ### Learning is an Individual Journey
 
-**Principle:** Learning is an individual journey. The teacher can show you the path, but you must walk on it yourself. No one else can do the hard work for you. You will experience setbacks along the way. The teacher can guide you, but you have to put in the work to overcome the challenges. Otherwise you haven’t grown - and therefore you can’t benefit. You can only build muscle if you’re the one lifting the weights.
+**Principle:** Learning is an individual journey. The teacher can show you the path, but you must walk on it yourself. No one else can do the hard work for you. You can only build muscle if you’re the one lifting the weights. You will experience setbacks along the way. The teacher can guide you, but you have to put in the work to overcome the challenges. Otherwise you haven’t grown - and therefore you can’t benefit. 
 
 **How it’s applied:** To eliminate external distractions, you are prohibited from leaving the course boundaries, keeping any electronics and outside communications. ‘Noble Silence’ requires you to refrain from any form of communication (verbal, written, gestures and even eye contact) with co-meditators so you can cultivate the feeling of working in isolation - everyone is on their own journey. The limited time for discourse and teacher questions encourages you to directly confront your issues instead of being overly dependent on guidance. This builds confidence in your own ability to overcome challenges, which is essential for the long journey that you have ahead.
 
@@ -59,11 +59,15 @@ By eliminating any profit motive, it ensures that the organization only survives
 
 **Principle:** Surrender to the technique to give it a fair trial. For the duration of the course, do it the way the creators intended. It has been thoughtfully designed to give you a complete introduction to the discipline. At the end, you can conclusively determine if it was beneficial. If not, you can move on without lingering doubts about whether you did it correctly.
 
-**How it’s applied:** You are asked to comply fully with the guidance - to observe the discipline and to meditate exactly as the teacher asks, without ignoring any part of the instructions, nor adding anything to them. In order to create the optimal environment for learning, you must stick to the schedule and follow the [Code of Discipline](https://www.dhamma.org/en-US/about/code). One noteworthy rule is that you are not permitted to follow any other techniques (including yoga and exercise), rites or rituals during the course. This is not to condemn them, but to eliminate any confounding variables so you can be assured that any benefits experienced are a direct result of the technique.
+**How it’s applied:** You are asked to comply fully with the guidance - to observe the discipline and to meditate exactly as the teacher asks, without ignoring any part of the instructions, nor adding anything to them. In order to create the optimal environment for learning, you must stick to the schedule and follow the [Code of Discipline](https://www.dhamma.org/en-US/about/code). One noteworthy rule is that you are not permitted to follow any other techniques (including yoga and exercise), rites or rituals during the course. This is not to condemn them, but to eliminate any confounding variables so you can be assured that any benefits experienced are a direct result of Vipassana.
 
 
-### What I Learned
+### Small Price to Pay
 
-I learned how to practice the technique, how to build an effective course and a whole lot about myself. But this essay isn’t about me. It’s about how it might help you. I’m not promising it will change your life… but isn’t 10 days a small price to pay to find out?
+Like the hundreds of thousands of others who also contributed, I found the experience incredibly rewarding. Of course, there are some who don't find it as valuable. But as long as you participate seriously, after 10 days you conclusively know whether it deserves a place in your life. 
 
-For more info, check out their site: [dhamma.org](https://www.dhamma.org/).
+Contrast this with Headspace; in terms of meditation-hours, 10 days of Vipassana is equivalent to 20 months of Headspace (10 minutes a day). Yet, even after 20 months, you're not certain that Headspace was helpful - it's impossible to distinguish its benefits from other healthy habits you've adopted.
+
+So, I'm not promising that Vipassana is going to change your life... but isn’t 10 days a small price to pay to find out?
+
+For more info, here's their site: [dhamma.org](https://www.dhamma.org/).
