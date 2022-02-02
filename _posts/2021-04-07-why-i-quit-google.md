@@ -133,3 +133,7 @@ Ok, maybe that’s not entirely accurate. Though I’m not certain *how* I’ll 
 ### What's there to lose?
 
 Quitting Google is an experiment that has unlimited upside and limited downside. My only cost is opportunity cost, while the payoff is an infinitely richer life. I call it an experiment because I acknowledge that perhaps I can’t have it all - maybe I’m idealizing post-work life and I took my previous life for granted. However, even failure would be a minor success. If I ever have to go back to a job, I’ll be able to better cope with it due to a solid foundation of health, happiness and effectiveness. Also, by experiencing both extremes I’ll gain the perspective to strike a better balance and will be immune to the grass is greener syndrome. As far as worst cases go, that’s about as good as it gets - it would have been crazy not to [take the leap]({{site.url}}/taking-the-leap) and see what happens.
+
+### Updates
+
+* **[Feb 2, 2022] [Year 1 Reflection]({{site.url}}/year-one-reflection)**
