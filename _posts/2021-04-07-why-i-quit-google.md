@@ -8,15 +8,15 @@ description: The story of how I quit Google to craft a life instead of making a 
 
 Every conversation about me quitting goes the same way.
 
-“Where are you headed next?”
+*“Where are you headed next?”*
 
 Nowhere.
 
-“Ah, so you’re starting a company.”
+*“Ah, so you’re starting a company.”*
 
 Nope.
 
-“Then what are you going to do?”
+*“Then what are you going to do?”*
 
 The implicit question here is: how are you going to earn money? I give them my honest answer: I don’t know yet. I’m focused on crafting a life instead of making a living. But they don’t buy it. Who would leave Google without securing another position? Was he fired? Is he trying to keep his business idea a secret? The truth is much simpler: I’m playing the long game. I have conviction that if I focus on building a solid foundation, I can climb to greater heights **and** enjoy the journey along the way.
 
@@ -36,7 +36,7 @@ Have a long, lucid and content life. Be present to experience life in its richne
 
 #### Effectiveness
 
-Get the right things done. No wasted time - make space for what matters. This requires prioritization, focus and productivity. Distractions, procrastination and lethargy must be managed. Mental clarity, energy levels and resilience to negative emotions from the previous layer are foundational.
+Get the right things done. No wasted time - make space for what matters. This requires prioritization, focus and productivity. Distractions, procrastination and lethargy must be managed. Mental clarity, energy and resilience to negative emotions from the previous layer are foundational.
 
 #### Relationships
 
@@ -128,7 +128,7 @@ Let’s address the elephant in the room. What will I do for a living? I have no
 *   **I have a long runway.** I saved a lot of money and have near-zero living expenses because I live in a paid off home.
 *   **I have no family obligations.** I’m single ([ladies](https://media4.giphy.com/media/xUOwFRe7138b0ApW3C/giphy.gif)???) and am not responsible for anyone. This is the best time to take a risk. This was indeed the biggest regret I heard from older colleagues - they wish they’d taken a chance before they had a family and a mortgage.
 
-Ok, maybe that’s not entirely accurate. Though I’m not certain *how* I’ll make money, I do have a strong hunch about the problem space I’ll be working in. As I reflected on what prevented me from living a meaningful life, I noticed a very direct through line: an unhealthy relationship with technology. From the mental health drawbacks of social media to [feeds limiting effectiveness]({{site.url}}/feeds-considered-harmful) to the ubiquity of smartphones preventing authentic connection and experiences, this is truly an epidemic in the making. It is the cigarette of our generation; it affects us, our parents and our children. We’re just beginning to realize the problem, but no one knows how to fix it. My plan is to start by using technology more intentionally in my individual journey, but ultimately I have conviction my learnings will be valuable to others. For such a looming problem, there is no shortage of value to create and capture.
+Ok, maybe that’s not entirely accurate. Though I’m not certain *how* I’ll make money, I do have a strong hunch about the problem space I’ll be working in. As I reflected on what prevented me from living a meaningful life, I noticed a very direct through line: an unhealthy relationship with technology. From the mental health drawbacks of social media to [feeds limiting effectiveness]({{site.url}}/feeds-considered-harmful) to the ubiquity of smartphones preventing authentic connection and experiences, this is truly an epidemic in the making. It is the cigarette of our generation; it affects us, our parents and our children. We’re just beginning to realize the problem, but no one knows how to fix it. My plan is to start by using technology more intentionally in my individual journey, but ultimately I have conviction that my learnings will be valuable to others. For such a looming problem, there is no shortage of value to create and capture.
 
 ### What's there to lose?
 
