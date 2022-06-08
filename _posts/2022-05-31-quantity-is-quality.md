@@ -14,7 +14,7 @@ I read an interesting anecdote recently about how quantity leads to quality. Fro
 
 It really resonated with me. I suffer from the same affliction as the “quality” group - [perfectionitis]({{site.url}}/thought-space-vs-reality). This blog is an example. I’m proud of my work, but my pace is abysmal. I’ve only written 6 essays in 15 months. I am *(was?)* too scared to release something imperfect.
 
-The story inspired me to change my approach, starting with becoming a better writer. Perhaps counter-intuitively, I am *not* going to focus on quality - only quantity. **I’ll be releasing a new post every week.** I started [last week]({{site.url}}/way-out-is-through).
+The story inspired me to change my approach, starting with becoming a better writer. Perhaps counter-intuitively, I am *not* going to focus on quality - only quantity. **I’ll be releasing a new post every week.** I started [last week]({{site.url}}/only-way-out-is-through).
 
 Why am I telling you this? Three reasons.
 
