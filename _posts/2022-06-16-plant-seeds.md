@@ -2,7 +2,7 @@
 layout: post
 title:  "Plant Seeds"
 date:   2022-06-16 12:00:00 -0500
-description: Parallelize your life.
+description: Make time work for you.
 ---
 Anything worth doing takes time. More specifically, it requires two different kinds of time - immersive time and process time.
 
