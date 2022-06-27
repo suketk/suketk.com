@@ -4,6 +4,8 @@ title:  "Plant Seeds"
 date:   2022-06-16 12:00:00 -0500
 description: Make time work for you.
 ---
+{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. It may be less polished than you are used to." %}
+
 Anything worth doing takes time. More specifically, it requires two different kinds of time - immersive time and process time.
 
 Immersive time is *active* and *serial*. You can only do one immersive task at a time - it requires your direct attention for the entire duration.

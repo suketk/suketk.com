@@ -4,6 +4,8 @@ title:  "Quantity Is Quality"
 date:   2022-05-31 12:00:00 -0500
 description: Do more. Think less.
 ---
+{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. It may be less polished than you are used to." %}
+
 I read an interesting anecdote recently about how quantity leads to quality. From Art & Fear, by Ted Orland:
 
 > A ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the **quantity** of work they produced, all those on the right solely on its **quality**.
