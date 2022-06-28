@@ -2,9 +2,9 @@
 layout: post
 title:  "Incentives"
 date:   2022-06-24 12:00:00 -0500
-description: Look at the why.
+description: Understand the why.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. It may be less polished than you are used to." %}
+{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. Disclaimer: It may be raw. I welcome any feedback!" %}
 
 An incentive is the result that a system is optimizing for. The behavior of a system can be explained by its underlying incentives - it always acts in accordance with them. Like gravity on physical objects, incentives are a universal force that act on systems. They are invisible yet omnipresent, constantly influencing our surroundings.
 

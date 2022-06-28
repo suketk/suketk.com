@@ -4,7 +4,7 @@ title:  "The Only Way Out Is Through"
 date:   2022-05-25 12:00:00 -0500
 description: Fight through the problem.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. It may be less polished than you are used to." %}
+{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. Disclaimer: It may be raw. I welcome any feedback!" %}
 
 Overcoming an obstacle is like pushing a boulder over a hill. It doesn't happen by itself - it requires a concerted effort.
 
