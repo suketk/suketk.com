@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peeling Back The Curtain"
-date:   2022-07-29 12:00:00 -0500
+date:   2022-08-05 12:00:00 -0500
 description: This post took 380 minutes to write.
 ---
 {% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. Disclaimer: It may be raw. I welcome any feedback!" %}
