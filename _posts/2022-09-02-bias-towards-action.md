@@ -12,6 +12,11 @@ This is the first segment of a 4-part manifesto about the product I’m building
 
 I’m sharing it here because the fundamental principles are relevant to anyone interested in crafting an intentional life.
 
+You can read the other parts here:
+* (Part 2) [Failure Is An Opportunity]({{site.url}}/failure-is-an-opportunity)
+* (Part 3) *On its way!*
+* (Part 4) *On its way!*
+
 ### Attention Economy
 
 The self-help industry is broken. The [incentives]({{site.url}}/incentives) are out of whack. 
