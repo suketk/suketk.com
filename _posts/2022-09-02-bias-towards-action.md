@@ -4,7 +4,7 @@ title:  "Bias Towards Action"
 date:   2022-09-02 12:00:00 -0500
 description: Action over consumption.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. Disclaimer: It may be raw. I welcome any feedback!" %}
+{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Preface
 

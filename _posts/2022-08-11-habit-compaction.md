@@ -4,7 +4,7 @@ title:  "Habit Compaction"
 date:   2022-08-11 12:00:00 -0500
 description: It only gets easier.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. Disclaimer: It may be raw. I welcome any feedback!" %}
+{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 If you’re anything like me, you have a collection of empty grocery bags scattered under your kitchen sink. Since they tend to fill up the space quickly, I pack them into a bag every few weeks. It’s oddly satisfying to see them compress to a fraction of their original size, from occupying an entire closet to just a single bag. I recently realized that habits work the same way - compaction makes them more manageable.
 

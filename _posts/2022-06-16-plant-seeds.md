@@ -4,7 +4,7 @@ title:  "Plant Seeds"
 date:   2022-06-16 12:00:00 -0500
 description: Make time work for you.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to improve my writing</a>. Disclaimer: It may be raw. I welcome any feedback!" %}
+{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 Anything worth doing takes time. More specifically, it requires two different kinds of time - immersive time and process time.
 
