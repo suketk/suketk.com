@@ -14,7 +14,7 @@ I’m sharing it here because the fundamental principles are relevant to anyone 
 
 You can read the other parts here:
 * (Part 2) [Failure Is An Opportunity]({{site.url}}/failure-is-an-opportunity)
-* (Part 3) *On its way!*
+* (Part 3) [Tighten The Feedback Loop]({{site.url}}/tighten-the-feedback-loop)
 * (Part 4) *On its way!*
 
 ### Attention Economy

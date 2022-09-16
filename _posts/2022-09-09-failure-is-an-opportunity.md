@@ -14,7 +14,7 @@ I’m sharing it here because the fundamental principles are relevant to anyone 
 
 You can read the other parts here:
 * (Part 1) [Bias Towards Action]({{site.url}}/bias-towards-action)
-* (Part 3) *On its way!*
+* (Part 3) [Tighten The Feedback Loop]({{site.url}}/tighten-the-feedback-loop)
 * (Part 4) *On its way!*
 
 ### Failure Is Inevitable
@@ -48,7 +48,6 @@ Self-compassion also instills equanimity. You remain balanced in the face of cha
 ### Building It Into The Product
 
 I incorporate the ‘Failure is an Opportunity’ principle in my product by enabling guided self-reflections for participants. They are urged to acknowledge their failures and identify interventions for next time. Importantly, these are done through writing because writing is thinking. By articulating your experience, you extract valuable lessons and actionable advice for the next iteration.
-
 
 *Sound vague or simplistic? Stay tuned - it all comes together with the remaining segments of the series!*
 
