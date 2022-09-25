@@ -25,7 +25,9 @@ Think you’re the only one who sets goals and misses them? Think again. Self-he
 
 ### Resilience
 
-At first glance, *“failure is inevitable”* seems like a cynical perspective. It’s not. It’s simply a reality to be accepted. If you embrace it, you become empowered to execute. If you don’t, you surrender before the war has even begun. This is what separates the people who succeed from the ones who don’t. Successful people embody the understanding that failure can’t be avoided; it has to be [persevered through]({{site.url}}/only-way-out-is-through). They don't shy away from challenge. They don’t get dejected and give up. Instead, they persist. [If they fall down 7 times, they get up 8. ](https://www.youtube.com/watch?v=fzvFAcbS0RE)
+At first glance, *“failure is inevitable”* seems like a cynical perspective. It’s not. It’s simply a reality to be accepted. If you embrace it, you become empowered to execute. If you don’t, you surrender before the war has even begun. This is what separates the people who succeed from the ones who don’t.
+
+Successful people embody the understanding that failure can’t be avoided; it has to be [persevered through]({{site.url}}/only-way-out-is-through). They don't shy away from challenge. They don’t get dejected and give up. Instead, they persist. [If they fall down 7 times, they get up 8. ](https://www.youtube.com/watch?v=fzvFAcbS0RE)
 
 Though resilience is necessary, it's not sufficient. It’s only part of the equation - it won’t take you the whole way. It’s not enough to just try again. You have to adapt your strategy. As Einstein said: *“insanity is doing the same thing over and over and expecting different results.”*
 

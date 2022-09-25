@@ -58,13 +58,13 @@ As you tighten this feedback loop, your progress accelerates. All you have to do
 
 ### Building It Into The Product
 
-I incorporate the ‘Tighten The Feedback Loop’ principle in my product by holding people accountable to weekly reflections. This is done through financial accountability - if they fail to submit a regular check-in, they are charged a penalty to charity (not me).
+I incorporate the ‘Tighten The Feedback Loop’ principle in my product by holding users accountable to weekly reflections. This is done through financial accountability - if they fail to submit a regular check-in, they are charged a penalty to charity (not me).
 
 This is better than existing accountability platforms for two reasons.
 
-First, they charge you the penalty if you fail to hit your goal. However, failure is inevitable. By penalizing  failure, they penalize trying. My solution: I only require them to reflect every week; not to hit their goal. This way, they embrace failure instead of fearing it.
+First, they charge you the penalty if you fail to hit your goal. However, failure is inevitable. By penalizing  failure, they penalize trying. My solution: I only require users to reflect every week; not to hit their goal. This way, they embrace failure instead of fearing it.
 
-Second, they have misaligned [incentives]({{site.url}}/incentives). Their business model is to take a cut of your penalty. They only make money when you fail. My solution: students pay for the service only when they have completed a program and witnessed the results. As a result, I only make money if they succeed.
+Second, they have misaligned [incentives]({{site.url}}/incentives). Their business model is to take a cut of your penalty. They only make money when you fail. My solution: users are charged to charity (not me) if they fail. They pay me for the service only when they have completed a program and witnessed the results. As a result, I only make money if they succeed.
 
 *Sound vague or simplistic? Stay tuned - it all comes together with the remaining segments of the series!*
 
