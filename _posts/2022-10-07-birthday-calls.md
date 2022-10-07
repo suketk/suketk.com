@@ -10,7 +10,7 @@ description: Take a few minutes for the people that matter.
 
 Deep connections with friends and family are incredibly important to me. They form one of my three pillars for a [meaningful life]({{site.url}}/why-i-quit-google): relationships, experiences, impact.
 
-Relationships are delicate. They don’t thrive on their own. They need to be nurtured with tender loving care. If you cultivate it, your bond grows stronger over time. If you don’t, it withers away as you grow apart.
+Like anything worth doing, relationships require effort. They don't thrive on their own - they need to be nurtured with tender loving care. If you cultivate them, your bond grows stronger over time. If you don’t, it withers away as you grow apart.
 
 This post is about a simple habit that’s allowed me to foster meaningful relationships: birthday calls.
 
@@ -48,7 +48,9 @@ Calls are expressive. They are higher bandwidth than texts - you can communicate
 
 For many, this idea sounds great in theory but they hesitate to put it into practice. They don’t want to interrupt others' birthdays; they know how busy it can be. This is especially relevant when you branch out of your inner circle to begin rekindling old relationships.
 
-Here’s something to put your mind at ease: in my experience, everyone has been more than happy to get a call. If you’re worried about being intrusive, put yourself in their shoes: even if you’re too busy to talk, wouldn’t you be thrilled that they thought of you and decided to reach out? I know I would.
+Here’s something to put your mind at ease: in my experience, everyone has been more than happy to get a call. If you’re worried about being intrusive, put yourself in their shoes: even if you’re too busy to talk, wouldn’t you be thrilled that they thought of you and decided to reach out?
+
+I know I would.
 
 --
 
