@@ -36,11 +36,11 @@ My solution is simple. Before I start running, I declare (to myself) the distanc
 
 Being accountable to yourself isn’t enough? Introduce external accountability by giving your word to someone else. It’s incredibly powerful.
 
-This is the reason I schedule runs with my friends. Not only is it a wholesome way to connect, we hype each other up - we don’t give up early. If anything, we push each other to do more.
+This is the reason I schedule runs with my friends. Not only is it a wholesome way to connect, but we also hype each other up - we don’t give up early. If anything, we push each other to do more.
 
 ### I’ll Be Back!
 
-Running isn’t the only place in my life where I use this approach. Here’s another example: I’m going on vacation today, so I’m skipping publishing for a week.
+Running isn’t the only place in my life where I use this approach - this [blog]({{site.url}}/quantity-is-quality) and my [business]({{site.url}}/habit-gym) too. Here’s another example: I’m going on vacation today, so I’m skipping publishing for a week.
 
 I may be tempted to extend that break under the guide of “getting settled back in”. Right now, I know that’s baloney. In the moment though, it might be more convincing. To nip it in the bud, I’ll pronounce it here: I’ll be back with a new post on Nov 14.
 
