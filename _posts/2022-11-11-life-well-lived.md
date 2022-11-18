@@ -18,7 +18,6 @@ I’m always reminded of this fact on vacation. For example, I just went hiking 
 
 This got me thinking: how can I fill my life up with days like this? Days that leave memories behind, not ones that pass by without a trace. That’s the essence of a life well lived - not how long you’re here for, but what you do with that time.
 
-
 ### Rude Awakening
 
 I vividly remember the first time I had this wake-up call. I had just hit the four-year mark at Google. Given it was my first (and only) full-time job, that meant I had been out of college for as long as I’d been in college.
@@ -26,7 +25,6 @@ I vividly remember the first time I had this wake-up call. I had just hit the fo
 When I looked back to my time at Google, no memories stood out. I was drawing blanks. Four years and nothing truly memorable happened. Sure, I went on a vacation here and there. I made some good friends. I grew at my craft. But it felt sparse - meaningful moments were few and far between. I could have done more. (That's [why I quit.]({{site.url}}/why-i-quit-google))
 
 My four years in college, on the other hand, were life-changing. It was densely packed with rich experiences, deep connections and remarkable personal and professional growth. When I look back to my time there, I feel a profound sense of fulfillment. I know that I made the most of it.
-
 
 ### Time Well Spent
 
