@@ -40,7 +40,7 @@ It’s important to note the role of social media here.
 
 It’s not an end in itself. If you doomscroll your feeds without having any meaningful interactions, you will develop a parasocial relationship with your network.
 
-Instead, you should treat it as a means to an end. It’s just an entry point. To extract the full benefits, you have to follow through - the only way foster a relationship is through genuine conversation. You don’t get that through likes or comments.
+Instead, you should treat it as a means to an end. It’s just an entry point. To extract the full benefits, you have to follow through - the only way to foster a relationship is through genuine conversation. You don’t get that through likes or comments.
 
 Next time you’re about to leave a like, think again. If this is a relationship you care to nurture, why not message them instead?
 
