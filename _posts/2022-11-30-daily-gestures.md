@@ -25,7 +25,7 @@ However, we only touch our parents’ and siblings’ feet on special occasions.
 
 That got me thinking. It’s a sign of respect, but I only *really* show it to my extended family. Doesn’t my immediate family deserve it just as much, if not more? Sure, it’s only a gesture - it doesn’t fully represent how you feel about the person. Just because I don’t touch their feet every day doesn’t mean that I don’t value them. Still, it is a *gesture* - a small but visible act that shows I respect them.
 
-We take the people closest to us for granted. We assume they know what they mean to us, but we rarely get the opportunity to express it. I’ve talked about celebrating people through weddings and birthdays, but they are so few and far between. It’s important to do it on a more regular basis too: that’s why I touch my parents feet’ every morning. What are you going to do to appreciate your loved ones?
+We take the people closest to us for granted. We assume they know what they mean to us, but we rarely get the opportunity to express it. I’ve talked about celebrating people through [weddings]({{site.url}}/don't-wait-to-celebrate) and [birthdays]({{site.url}}/birthday-calls), but they are so few and far between. It’s important to do it on a more regular basis too: that’s why I touch my parents feet’ every morning. What are you going to do to appreciate your loved ones?
 
 --
 

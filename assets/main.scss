@@ -20,13 +20,18 @@
 }
 
 #mc_embed_signup {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  border-radius: 5px;
-  padding: 8px;
+  box-shadow: 0 0 8px 8px lighten($brand-color, 33%);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  width: auto !important;
+}
+
+#mc_embed_signup label {
+  margin-bottom: 0.25rem;
 }
 
 #mc_embed_signup input[type=submit] {
-  background-color: lighten($brand-color, 20%);
+  background-color: $brand-color
 }
 
 blockquote {

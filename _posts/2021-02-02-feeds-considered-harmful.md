@@ -2,7 +2,7 @@
 layout: post
 title:  "Feeds Considered Harmful"
 date:   2021-02-02 12:00:00 -0500
-description: Algorithmic feeds slow you down, take you in unwanted directions and encourage consumption over action. Learn how to free yourself from them!
+description: The digital equivalent of placing the milk in the back of the grocery store.
 popular: true
 popular_order: 2
 ---
