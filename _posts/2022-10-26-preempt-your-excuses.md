@@ -4,7 +4,6 @@ title:  "Preempt Your Excuses"
 date:   2022-10-26 12:00:00 -0500
 description: Anticipate your future state.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Rationalization
 
@@ -46,6 +45,4 @@ I may be tempted to extend that break under the guide of “getting settled back
 
 See you in 2 weeks!
 
---
-
-*This post took 200 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="200" %}

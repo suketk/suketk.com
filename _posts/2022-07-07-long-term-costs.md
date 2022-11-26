@@ -4,7 +4,6 @@ title:  "Long-Term Costs"
 date:   2022-07-07 12:00:00 -0500
 description: Think long-term.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 > "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."
 

@@ -4,7 +4,6 @@ title:  "Peeling Back The Curtain"
 date:   2022-08-05 12:00:00 -0500
 description: This post took 380 minutes to write.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 Since I’m 10 weeks into my [challenge of publishing weekly]({{site.url}}/quantity-is-quality), I figured I’d reflect on my progress.
 
@@ -27,3 +26,7 @@ In doing this, I want to peel back the curtain of creation. Anyone who creates d
 I already know that I'll be embarassed about the time I spent writing this, but the truth is what it is. I can’t change it. Hiding behind a problem doesn’t help anyone. You have to face it head-on. Only when you accept it can you begin to solve it.
 
 So here's my problem: *this post took me 380 minutes :/*.
+
+--
+
+*Update: As of Nov 2022, only email subscribers will have access to writing times.*

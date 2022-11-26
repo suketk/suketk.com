@@ -9,24 +9,47 @@ layout: default
 
   {{ content }}
 
+  {%- assign popular = site.posts | where: 'popular', 'true' | sort: 'popular_order' -%}
+
+  {%- if popular.size > 0 -%}
+    <div class='popular-posts'>
+      <h2 class="post-list-heading">Most Popular</h2>
+      <ul class="post-list">
+        {%- for post in popular -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <p>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </p>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+  {%- endif -%}
+
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <div class='recent-posts'>
+      <h2 class="post-list-heading">Recent Posts</h2>
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <p>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </p>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
   {%- endif -%}
 
 </div>

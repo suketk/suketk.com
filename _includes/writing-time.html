@@ -1,0 +1,11 @@
+--
+
+{% if page.title == site.posts.first.title %}
+
+This post took {{ include.time }} minutes to write. [Why I'm telling you this.]({{site.url}}/peeling-back-the-curtain)
+
+{% else %}
+This post took <span style='background: black; color: black'>redacted</span> minutes to write. 
+
+[Here's why I share this data]({{site.url}}/peeling-back-the-curtain) with my email list. Join us!
+{% endif %}

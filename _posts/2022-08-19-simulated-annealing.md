@@ -4,7 +4,6 @@ title:  "Simulated Annealing"
 date:   2022-08-19 12:00:00 -0500
 description: Explore, then exploit.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Life By Default
 
@@ -40,6 +39,4 @@ But was that the lower hill? The algorithm presents a way to find out: drop your
 
 I don’t know where it will take me, but I’m excited to explore the terrain. Since it’s still early days, I have the time to meander randomly. As I voyage further, I'll dial down the randomness. By then, I’ll have seen enough hills to develop the conviction that I’m climbing the right one.
 
---
-
-*This post took 340 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="340" %}

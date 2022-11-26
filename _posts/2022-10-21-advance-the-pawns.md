@@ -4,7 +4,6 @@ title:  "Advance The Pawns"
 date:   2022-10-21 12:00:00 -0500
 description: Move the ball forward on all fronts.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Depth vs Breadth
 
@@ -50,6 +49,4 @@ As I [predicted earlier]({{site.url}}/peeling-back-the-curtain), this became a k
 
 Once I began using it for writing, it bled over to the rest of my life. Now I schedule my day in Pomodoros, i.e how many work sessions to spend on each workstream. This allows me to allocate more time for high priority tasks, but also ensure I’m moving the ball forward on all fronts.
 
---
-
-*This post took 230 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="230" %}

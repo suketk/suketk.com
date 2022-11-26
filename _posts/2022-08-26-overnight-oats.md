@@ -4,7 +4,6 @@ title:  "Overnight Oats"
 date:   2022-08-26 12:00:00 -0500
 description: The breakfast of champions.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Power of Habit
 
@@ -57,7 +56,4 @@ Mix the first five ingredients together in a bowl and set them in the fridge ove
 
 *A long backstory followed by a recipe at the very end… maybe this was a food blog all along?*
 
-
---
-
-*This post took 340 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="340" %}

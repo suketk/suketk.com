@@ -5,8 +5,6 @@ date:   2022-05-25 12:00:00 -0500
 description: Fight through the problem.
 ---
 
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
-
 Overcoming an obstacle is like pushing a boulder over a hill. It doesn't happen by itself - it requires a concerted effort.
 
 But raw effort isn’t enough. Quality and quantity matters too. Push the boulder in the wrong direction and you fall behind on your goal. Push it too softly and it rolls back to where you started. To get it to the other side, you have to cross a threshold of activation energy.

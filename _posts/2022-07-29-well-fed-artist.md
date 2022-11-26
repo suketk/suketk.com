@@ -4,7 +4,6 @@ title:  "Well-Fed Artist"
 date:   2022-07-29 12:00:00 -0500
 description: Make your art serve you.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 I hope to devote my life to creation. But I don’t want to be a starving artist. Instead, my goal is to be a “well-fed artist”.
 

@@ -4,7 +4,6 @@ title:  "Parasocial Media"
 date:   2022-11-18 12:00:00 -0500
 description: Don't be a passive consumer of the lives that you care about.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Illusion of Connection
 
@@ -44,6 +43,4 @@ Instead, you should treat it as a means to an end. It’s just an entry point. T
 
 Next time you’re about to leave a like, think again. If this is a relationship you care to nurture, why not message them instead?
 
---
-
-*This post took 285 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="285" %}

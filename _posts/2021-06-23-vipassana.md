@@ -3,6 +3,8 @@ layout: post
 title:  "Vipassana"
 date:   2021-06-23 12:00:00 -0500
 description: An homage to a well-crafted experience.
+popular: true
+popular_order: 4
 ---
 This essay is not:
 *   A pitch for how Vipassana will change your life.

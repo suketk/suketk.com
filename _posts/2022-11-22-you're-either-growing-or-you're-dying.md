@@ -4,7 +4,6 @@ title:  "You're Either Growing or You're Dying"
 date:   2022-11-22 12:00:00 -0500
 description: Use it or lose it.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Entropy
 
@@ -22,6 +21,4 @@ The lesson: you’re either growing or you’re dying. When you stop executing, 
 
 Do your future self a favor: don’t stop executing. Be proactive - stay sharp by remaining active. Invest the effort now so you don’t have to pay the consequences later. Otherwise, you’re only going to waste your energy climbing out of the hole that you dug yourself into. When you’re so focused on maintaining the status quo, you’re left with no bandwidth to chase what really matters: growth.
 
---
-
-*This post took 100 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="100" %}

@@ -4,7 +4,6 @@ title:  "Hard Work Is Hard"
 date:   2022-06-08 12:00:00 -0500
 description: It's more than just long hours.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 When I picture hard work, the image that comes to mind is a person at their desk, cranking away at 2am. They are completely focused - in the zone. From the outside, it looks almost effortless. But that's a romanticization.
 

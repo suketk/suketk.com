@@ -4,7 +4,6 @@ title:  "Habit Compaction"
 date:   2022-08-11 12:00:00 -0500
 description: It only gets easier.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 If you’re anything like me, you have a collection of empty grocery bags scattered under your kitchen sink. Since they tend to fill up the space quickly, I pack them into a bag every few weeks. It’s oddly satisfying to see them compress to a fraction of their original size, from occupying an entire closet to just a single bag. I recently realized that habits work the same way - compaction makes them more manageable.
 
@@ -18,6 +17,4 @@ It also demands room in your schedule. Before you can even start, you need time 
 
 Every successive repetition makes the habit easier. Over time, it becomes second nature. You don’t face resistance. Since you’ve experienced the benefits, you focus on the outcome instead of the effort. It also becomes more efficient. You figure out how to squeeze it into the nooks and crannies of your schedule as you optimize it. This is habit compaction at work - it occupies less time and energy as you repeat it, leaving more room for you to add new habits on top.
 
---
-
-*This post took 200 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="200" %}

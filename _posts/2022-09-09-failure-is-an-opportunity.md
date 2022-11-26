@@ -4,7 +4,6 @@ title:  "Failure Is An Opportunity"
 date:   2022-09-09 12:00:00 -0500
 description: Learn from your mistakes.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Preface
 
@@ -15,7 +14,7 @@ I’m sharing it here because the fundamental principles are relevant to anyone 
 You can read the other parts here:
 * (Part 1) [Bias Towards Action]({{site.url}}/bias-towards-action)
 * (Part 3) [Tighten The Feedback Loop]({{site.url}}/tighten-the-feedback-loop)
-* (Part 4) *On its way!*
+* (Part 4) [Habit Gym]({{site.url}}/habit-gym)
 
 ### Failure Is Inevitable
 
@@ -53,6 +52,4 @@ I incorporate the ‘Failure is an Opportunity’ principle in my product by ena
 
 *Sound vague or simplistic? Stay tuned - it all comes together with the remaining segments of the series!*
 
---
-
-*This post took 340 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="340" %}

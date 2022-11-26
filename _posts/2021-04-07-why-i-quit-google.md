@@ -3,6 +3,8 @@ layout: post
 title:  "Why I Quit Google"
 date:   2021-04-07 12:00:00 -0500
 description: The story of how I quit Google to craft a life instead of making a living.
+popular: true
+popular_order: 1
 ---
 ### Déjà vu
 

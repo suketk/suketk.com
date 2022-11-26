@@ -3,6 +3,8 @@ layout: post
 title:  "Feeds Considered Harmful"
 date:   2021-02-02 12:00:00 -0500
 description: Algorithmic feeds slow you down, take you in unwanted directions and encourage consumption over action. Learn how to free yourself from them!
+popular: true
+popular_order: 2
 ---
 Technology is merely a tool. It can work for us or against us. If we use it with agency, we can leverage the world’s information to better our lives. If we use it indiscriminately, we find ourselves at the mercy of the Algorithm, passively consuming content. Our generation is at an inflection point - either we use technology intentionally or it uses us.
 

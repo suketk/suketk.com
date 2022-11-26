@@ -4,7 +4,6 @@ title:  "Don't Wait To Celebrate"
 date:   2022-07-22 12:00:00 -0500
 description: Tell your loved ones how much they mean to you.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 3 cities. 4 weddings. 9 days. That’s been my last two weeks. *(No, this isn’t a humble brag about my thriving social life.)* Attending four weddings in rapid succession led me to a realization: **I need to spend more time celebrating the people I care about**. Let me explain how I got there.
 

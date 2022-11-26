@@ -4,7 +4,6 @@ title:  "Birthday Calls"
 date:   2022-10-07 12:00:00 -0500
 description: Take a few minutes for the people that matter.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Relationships
 
@@ -52,6 +51,4 @@ Here’s something to put your mind at ease: in my experience, everyone has been
 
 I know I would.
 
---
-
-*This post took 330 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="330" %}

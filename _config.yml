@@ -22,9 +22,12 @@ permalink: /:title
 # show_excerpts: true
 
 header_pages:
+  - subscribe.md
   - about.md
 
 google_analytics: G-4SGNVDRFF7
+
+twitter_username: "_suketk"
 
 # Build settings
 markdown: kramdown

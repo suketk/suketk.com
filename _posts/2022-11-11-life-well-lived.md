@@ -4,7 +4,6 @@ title:  "Life Well Lived"
 date:   2022-11-11 12:00:00 -0500
 description: It's now about how long you're here for, but what you do with that time.
 ---
-{% include note.html note="This is part of a series where I <a href=\"quantity-is-quality\">publish a post every week in order to exercise my writing muscle</a>. I welcome any feedback!" %}
 
 ### Good Days and Bad Days
 
@@ -36,6 +35,4 @@ For a life well lived, you have to act with urgency and focus. Define a clear se
 
 Here’s one way I plan on doing this: waking up early. Whenever I have an early start, I always get so much done. When I get up late, it feels like the day just disappeared. I want to go to bed knowing that I made full use of every day. We’re only here for a short time, so why waste it?
 
---
-
-*This post took 300 minutes to write. [Why I'm telling you this]({{site.url}}/peeling-back-the-curtain).*
+{% include writing-time.html time="300" %}

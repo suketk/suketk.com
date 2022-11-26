@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Welcome to my corner of the internet! Here, I share my musings on how to craft an intentional life (how I deliberate on how to be deliberate?). It serves two purposes: to refine my own thoughts through writing and *hopefully* encourage others to lead an examined life.
