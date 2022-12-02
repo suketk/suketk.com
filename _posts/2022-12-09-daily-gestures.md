@@ -11,7 +11,6 @@ In Indian culture, it’s customary to greet your elders by touching their feet.
 
 As the youngest member of my family, that means everyone. Grandparents and parents. Aunts and uncles. Older siblings and cousins (their spouses too). Even close friends of your parents.
 
-
 ### Different rules
 
 Despite growing up in NYC, we've held on to this tradition.
@@ -19,7 +18,6 @@ Despite growing up in NYC, we've held on to this tradition.
 Whenever we meet our relatives, I touch their feet. And since we have a lot of extended family nearby, I do a lot of bending over. (Please don’t take that out of context.)
 
 However, there are different rules for the nuclear family. I only touch my parents’ and siblings’ feet on special occasions. Religious holidays and birthdays, for example. We see them all the time, so it’s just more convenient that way.
-
 
 ### Don’t take them for granted
 

@@ -13,7 +13,6 @@ That’s for other people’s birthdays, though. Since mine is right around the 
 
 Growing up, I never really cared about my birthday. It seemed like an arbitrary thing to celebrate. I’ve since come around to it, but not in the typical sense of “let’s *celebrate* me”. To me, birthdays are just an opportunity to reflect on your life and get people together.
 
-
 ### Virtual get-togethers
 
 One of my favorite parts about birthdays is that it’s an excuse to get your favorite humans together. For most, that translates to an in-person celebration with local friends and family.
@@ -34,11 +33,9 @@ This year, I’m adding another ritual. This one is a tad selfish. Then again, s
 
 I’m going to ask for the gift of feedback. Let me explain why.
 
-
 #### Blind Spots
 
 Feedback is always important. We all have blind spots - you don’t know what you don’t know. This can apply to business, relationships or general wellbeing. How can I be a better friend, son or brother? Is there anything I do that concerns you? What am I doing well that you would like to see more of? As much as you can introspect, it doesn’t replace an outside perspective.
-
 
 #### No Better Time
 
@@ -56,7 +53,6 @@ My counterpoint: birthdays are the best time, if any, to ask for it. People are 
 
 Am I overestimating what people are willing to do for my birthday? Perhaps. It’s not going to stop me from trying to grow, though. This is just an experiment. Depending on the results, I’ll decide how I want to proceed next year.
 
-
 ### Have feedback?
 
 Let's start here. To my readers: have feedback about absolutely anything? [Tell me](https://docs.google.com/forms/d/e/1FAIpQLSeaTDQNt6wSZuBjLE6dRQXhgYsPaBvHU3wbCgsLuWQe0z-XsQ/viewform) - I'd love to hear from you (you can be anonymous)!
@@ -64,3 +60,5 @@ Let's start here. To my readers: have feedback about absolutely anything? [Tell 
 To people I know: there’s a separate form for personal feedback, please reach out for it.
 
 {% include writing-time.html time="250" %}
+
+{% include tweet.html link="https://twitter.com/_suketk/status/1598778982257676288" %}
