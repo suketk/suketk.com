@@ -32,3 +32,5 @@ I’ve talked about celebrating people through [weddings]({{site.url}}/don't-wai
 How are you going to appreciate your loved ones?
 
 {% include writing-time.html time="70" %}
+
+{% include tweet.html link="https://twitter.com/_suketk/status/1601338658027900928" %}
