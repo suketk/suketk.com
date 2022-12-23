@@ -501,3 +501,5 @@ That’s when it hit me. This was a regret in the making, possibly the biggest I
 That’s the theme of the next year: ruthless prioritization in service of achieving my dream. I’m certain this is the life that I want and I’m going to make it work.
 
 Here’s to another year of trying.
+
+{% include writing-time.html time="1920" %}
