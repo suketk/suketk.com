@@ -1,4 +1,8 @@
 <figure class="image" style="text-align: right; font-size: small; margin: 24px 0px;">
-  <img src="{{ site.url }}/assets/{{ include.url }}" style="margin-left:auto;margin-right:auto" alt="{{ include.description }}">
+  {% if include.absolute_url %}
+    <img src="{{ include.absolute_url }}" style="margin-left:auto;margin-right:auto;width:100%" alt="{{ include.description }}">
+  {% else %}
+    <img src="{{ site.url }}/assets/{{ include.url }}" style="margin-left:auto;margin-right:auto" alt="{{ include.description }}">
+  {% endif %}
   <figcaption><em>{{ include.description }}</em></figcaption>
 </figure>
