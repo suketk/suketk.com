@@ -3,6 +3,8 @@ layout: post
 title:  "Birthday Traditions"
 date:   2022-12-02 12:00:00 -0500
 description: An opportunity to reflect on your life and get people together.
+writing_time: 250
+tweet: https://twitter.com/_suketk/status/1598778982257676288
 ---
 
 ### It’s my birthday
@@ -58,7 +60,3 @@ Am I overestimating what people are willing to do for my birthday? Perhaps. It�
 Let's start here. To my readers: have feedback about absolutely anything? [Tell me](https://docs.google.com/forms/d/e/1FAIpQLSeaTDQNt6wSZuBjLE6dRQXhgYsPaBvHU3wbCgsLuWQe0z-XsQ/viewform) - I'd love to hear from you (you can be anonymous)!
 
 To people I know: there’s a separate form for personal feedback, please reach out for it.
-
-{% include writing-time.html time="250" %}
-
-{% include tweet.html link="https://twitter.com/_suketk/status/1598778982257676288" %}

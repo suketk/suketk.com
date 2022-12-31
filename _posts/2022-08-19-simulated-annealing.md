@@ -3,6 +3,7 @@ layout: post
 title:  "Simulated Annealing"
 date:   2022-08-19 12:00:00 -0500
 description: Explore, then exploit.
+writing_time: 340
 ---
 
 ### Life By Default
@@ -38,5 +39,3 @@ That last algorithm is how simulated annealing works. I’ve found it to be a va
 But was that the lower hill? The algorithm presents a way to find out: drop yourself in a new region and get a lay of the land. You achieve this by throwing yourself into an alternate lifestyle and gaining an experiential understanding of it. In my case, [I quit my job]({{site.url}}/why-i-quit-google) and chose to pursue this self-development and entrepreneurial journey.
 
 I don’t know where it will take me, but I’m excited to explore the terrain. Since it’s still early days, I have the time to meander randomly. As I voyage further, I'll dial down the randomness. By then, I’ll have seen enough hills to develop the conviction that I’m climbing the right one.
-
-{% include writing-time.html time="340" %}

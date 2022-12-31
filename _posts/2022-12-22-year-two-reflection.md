@@ -3,6 +3,7 @@ layout: post
 title:  "Year 2 Reflection"
 date:   2022-12-22 12:00:00 -0500
 description: My second year after I quit Google to craft a life instead of making a living.
+writing_time: 1920
 ---
 
 ### The Plan
@@ -21,9 +22,9 @@ And this was my strategy to manifest it:
 
 > I’m playing the long game. I have conviction that if I focus on building a solid foundation, I can climb to greater heights and enjoy the journey along the way.
 
-### The First Year
+### Fast Forward
 
-In the first year, I adopted healthy habits. First, I seriously committed to each habit for 3 months to understand the pros and cons. Then, I used that information to land at a sweet spot between value and effort. My experiments included 2 hours of daily meditation, a consistent weightlifting regimen and a strict diet that eliminated added sugar, fried food, refined grains and any other processed ingredients.
+In the [first year]({{site.url}}/year-one-reflection), I adopted healthy habits. First, I seriously committed to each habit for 3 months to understand the pros and cons. Then, I used that information to land at a sweet spot between value and effort. My experiments included 2 hours of daily meditation, a consistent weightlifting regimen and a strict diet that eliminated added sugar, fried food, refined grains and any other processed ingredients.
 
 I also started [Habit Gym]({{site.url}}/habit-gym), an accountability platform that helps people live a more intentional life through sustained reflection and action.
 
@@ -501,5 +502,3 @@ That’s when it hit me. This was a regret in the making, possibly the biggest I
 That’s the theme of the next year: ruthless prioritization in service of achieving my dream. I’m certain this is the life that I want and I’m going to make it work.
 
 Here’s to another year of trying.
-
-{% include writing-time.html time="1920" %}

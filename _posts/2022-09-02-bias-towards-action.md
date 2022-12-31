@@ -3,6 +3,7 @@ layout: post
 title:  "Bias Towards Action"
 date:   2022-09-02 12:00:00 -0500
 description: Action over consumption.
+writing_time: 240
 ---
 
 ### Preface
@@ -45,5 +46,3 @@ Until then, it’s all hypothetical. You merely have an intellectual understandi
 I incorporated the 'Bias Towards Action' principle in my product by placing the emphasis on execution, not education. Content is deliberately sparse because it isn't the bottleneck - free quality content is readily available at our fingertips. Instead, the product spurs action by helping you set concrete goals and evaluating yourself against them.
 
 *Sound vague or simplistic? Stay tuned - it all comes together with the remaining segments of the series!*
-
-{% include writing-time.html time="240" %}

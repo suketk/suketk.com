@@ -3,6 +3,7 @@ layout: post
 title:  "Failure Is An Opportunity"
 date:   2022-09-09 12:00:00 -0500
 description: Learn from your mistakes.
+writing_time: 340
 ---
 
 ### Preface
@@ -51,5 +52,3 @@ Self-compassion also instills equanimity. You remain balanced in the face of cha
 I incorporate the ‘Failure is an Opportunity’ principle in my product by enabling guided self-reflections for participants. They are urged to acknowledge their failures and identify interventions for next time. Importantly, these are done through writing because writing is thinking. By articulating your experience, you extract valuable lessons and actionable advice for the next iteration.
 
 *Sound vague or simplistic? Stay tuned - it all comes together with the remaining segments of the series!*
-
-{% include writing-time.html time="340" %}

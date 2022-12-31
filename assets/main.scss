@@ -19,19 +19,26 @@
 	margin-bottom: 0px;
 }
 
-#mc_embed_signup {
-  box-shadow: 0 0 8px 8px lighten($brand-color, 33%);
+#mc_embed_signup.subscribe {
+  background-color: lighten($brand-color, 33%);
+  # box-shadow: 0 0 8px 8px lighten($brand-color, 33%);
   border-radius: 0.5rem;
   padding: 0.5rem 0.75rem;
-  width: auto !important;
+  width: auto;
 }
 
-#mc_embed_signup label {
+#mc_embed_signup.subscribe label {
   margin-bottom: 0.25rem;
+  font-size: 1.5rem;
 }
 
-#mc_embed_signup input[type=submit] {
-  background-color: $brand-color
+#mc_embed_signup.subscribe p {
+  font-size: 1rem;
+}
+
+#mc_embed_signup.subscribe input[type=submit] {
+  background-color: $brand-color;
+  font-size: 1rem;
 }
 
 blockquote {

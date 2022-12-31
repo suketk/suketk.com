@@ -3,6 +3,7 @@ layout: post
 title:  "You're Either Growing or You're Dying"
 date:   2022-11-22 12:00:00 -0500
 description: Use it or lose it.
+writing_time: 100
 ---
 
 ### Entropy
@@ -20,5 +21,3 @@ To remain balanced, you must develop a consistent meditation practice. Otherwise
 The lesson: you’re either growing or you’re dying. When you stop executing, you’re not just hitting pause - you are actively declining. Use it or lose it.
 
 Do your future self a favor: don’t stop executing. Be proactive - stay sharp by remaining active. Invest the effort now so you don’t have to pay the consequences later. Otherwise, you’re only going to waste your energy climbing out of the hole that you dug yourself into. When you’re so focused on maintaining the status quo, you’re left with no bandwidth to chase what really matters: growth.
-
-{% include writing-time.html time="100" %}

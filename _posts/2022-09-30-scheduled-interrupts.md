@@ -3,6 +3,7 @@ layout: post
 title:  "Scheduled Interrupts"
 date:   2022-09-30 12:00:00 -0500
 description: Hands on the wheel, eyes on the road.
+writing_time: 450
 ---
 
 ### Tunnel Vision
@@ -49,5 +50,3 @@ This allows you to be proactive instead of reactive; to focus on the important i
 #### Diversification
 
 Together, timeboxing and prioritization are a powerful combination. Prioritization helps you determine what tasks are important. Timeboxing helps you split time across them. Equipped with both, you can diversify your effort and move the ball forward on several fronts at a time - efficiently and effectively.
-
-{% include writing-time.html time="450" %}

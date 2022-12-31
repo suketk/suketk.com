@@ -3,6 +3,7 @@ layout: post
 title:  "Remember The Individual"
 date:   2022-10-14 12:00:00 -0500
 description: The internet may be virtual, but the human on the other side isn’t.
+writing_time: 280
 ---
 
 ### Sonder
@@ -74,5 +75,3 @@ It’s a small compliment, but it made my day! When I write, I don’t normally 
 ### Empathy
 
 What’s the take home lesson? Remember the individual. The person you are building for or interacting with is a human being, complete with their own desires, feelings and problems. The internet may be virtual, but the human on the other side isn’t. Treat them accordingly.
-
-{% include writing-time.html time="280" %}

@@ -3,6 +3,7 @@ layout: post
 title:  "Birthday Calls"
 date:   2022-10-07 12:00:00 -0500
 description: Take a few minutes for the people that matter.
+writing_time: 330
 ---
 
 ### Relationships
@@ -50,5 +51,3 @@ For many, this idea sounds great in theory but they hesitate to put it into prac
 Here’s something to put your mind at ease: in my experience, everyone has been more than happy to get a call. If you’re worried about being intrusive, put yourself in their shoes: even if you’re too busy to talk, wouldn’t you be thrilled that they thought of you and decided to reach out?
 
 I know I would.
-
-{% include writing-time.html time="330" %}

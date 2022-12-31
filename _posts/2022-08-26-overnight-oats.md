@@ -3,6 +3,7 @@ layout: post
 title:  "Overnight Oats"
 date:   2022-08-26 12:00:00 -0500
 description: The breakfast of champions.
+writing_time: 340
 ---
 
 ### Power of Habit
@@ -55,5 +56,3 @@ For 1 serving, you need:
 Mix the first five ingredients together in a bowl and set them in the fridge overnight. In the morning, cut the banana into it and mix. Enjoy!
 
 *A long backstory followed by a recipe at the very end… maybe this was a food blog all along?*
-
-{% include writing-time.html time="340" %}

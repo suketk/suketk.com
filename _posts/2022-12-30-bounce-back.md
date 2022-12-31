@@ -3,6 +3,8 @@ layout: post
 title:  "Bounce Back"
 date:   2022-12-30 12:00:00 -0500
 description: Shorten your recovery time.
+writing_time: 250
+tweet: https://twitter.com/_suketk/status/1608942698618314753
 ---
 
 We focus too much on preventing failure and not enough on bouncing back from it. We’re playing defense when we should be on offense.
@@ -53,6 +55,6 @@ There are many ways to implement this. I’m particularly fond of the Two-Day Ru
 
 You can create your own rules, too. The important thing is that they snap you back into a routine and keep the momentum. Remember: your habits have [inertia]({{site.url}}/inertia) and [if you’re not growing, you’re dying]({{site.url}}/you're-either-growing-or-you're-dying).
 
-{% include writing-time.html time="250" %}
+<!-- {% include writing-time.html time="250" %} -->
 
-{% include tweet.html link="https://twitter.com/_suketk/status/1608942698618314753" %}
+<!-- {% include tweet.html link="https://twitter.com/_suketk/status/1608942698618314753" %} -->

@@ -3,6 +3,8 @@ layout: post
 title:  "Daily Gestures"
 date:   2022-12-09 12:00:00 -0500
 description: Don't take your loved ones for granted.
+writing_time: 70
+tweet: https://twitter.com/_suketk/status/1601338658027900928
 ---
 
 ### Sign of respect
@@ -30,7 +32,3 @@ We take the people closest to us for granted. We assume they know what they mean
 I’ve talked about celebrating people through [weddings]({{site.url}}/don't-wait-to-celebrate) and [birthdays]({{site.url}}/birthday-calls), but they are so few and far between. It’s important to do it on a more regular basis too: that’s why I touch my parents' feet every morning.
 
 How are you going to appreciate your loved ones?
-
-{% include writing-time.html time="70" %}
-
-{% include tweet.html link="https://twitter.com/_suketk/status/1601338658027900928" %}

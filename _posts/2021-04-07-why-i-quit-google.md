@@ -139,3 +139,4 @@ Quitting Google is an experiment that has unlimited upside and limited downside.
 ### Updates
 
 * **[Feb 2, 2022] [Year 1 Reflection]({{site.url}}/year-one-reflection)**
+* **[Dec 22, 2022] [Year 2 Reflection]({{site.url}}/year-two-reflection)**

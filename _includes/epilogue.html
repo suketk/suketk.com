@@ -1,0 +1,21 @@
+<p>---</p>
+
+{% if page.writing_time %}
+    {% if page.title == site.posts.first.title %}
+
+    <p>This post took {{ page.writing_time }} minutes to write. <a href='{{site.url}}/peeling-back-the-curtain'>Why I'm telling you this.</a></p>
+
+    <p>Join the <a href='{{site.url}}/subscribe'>email list</a> to see the writing times for future posts!</p>
+
+    {% else %}
+    <p>This post took <span style='background: black; color: black'>redacted</span> minutes to write.</p>
+
+    <p><a href='{{site.url}}/peeling-back-the-curtain'>Here's why I share this data</a> with my email list. <a href='{{site.url}}/subscribe'>Join us!</a></p>
+    {% endif %}
+{% endif %}
+
+<p><i>P.S: You can find more of my thoughts on Twitter <a href='https://twitter.com/{{site.twitter_username}}'>@{{site.twitter_username}}</a></i>.</p>
+
+{% if page.tweet %}
+    {% include tweet.html link=page.tweet %}
+{% endif %}

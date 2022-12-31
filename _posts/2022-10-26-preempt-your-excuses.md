@@ -3,6 +3,7 @@ layout: post
 title:  "Preempt Your Excuses"
 date:   2022-10-26 12:00:00 -0500
 description: Anticipate your future state.
+writing_time: 200
 ---
 
 ### Rationalization
@@ -44,5 +45,3 @@ Running isn’t the only place in my life where I use this approach - this [blog
 I may be tempted to extend that break under the guide of “getting settled back in”. Right now, I know that’s baloney. In the moment though, it might be more convincing. To nip it in the bud, I’ll pronounce it here: I’ll be back with a new post on Nov 14.
 
 See you in 2 weeks!
-
-{% include writing-time.html time="200" %}

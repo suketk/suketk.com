@@ -3,6 +3,7 @@ layout: post
 title:  "Advance The Pawns"
 date:   2022-10-21 12:00:00 -0500
 description: Move the ball forward on all fronts.
+writing_time: 230
 ---
 
 ### Depth vs Breadth
@@ -48,5 +49,3 @@ As I [predicted earlier]({{site.url}}/peeling-back-the-curtain), this became a k
 > This will form my keystone habit of time management. In my [Year 1 reflection]({{site.url}}/year-one-reflection), my goal was to experiment with the Pomodoro technique. Since I’ll be using Pomodoro sessions to timeblock my writing, I hope to extend it to other tasks as well.
 
 Once I began using it for writing, it bled over to the rest of my life. Now I schedule my day in Pomodoros, i.e how many work sessions to spend on each workstream. This allows me to allocate more time for high priority tasks, but also ensure I’m moving the ball forward on all fronts.
-
-{% include writing-time.html time="230" %}

@@ -215,11 +215,11 @@ Goal for next year: Scale it. It creates significant value for users and gives m
 
 ### Business
 
-***Note: The business deserves a dedicated post, coming soon. This is just a brief summary. If you just can't wait to hear about it, reach out to me.***
-
 Exactly six months after I quit, I started a business to enable habit change. It was born out of the personal lessons that I learned on this journey and it’s heavily inspired by the [principles]({{site.url}}/vipassana) of the Vipassana retreat. I should also mention that it's a product - not a coaching business. 
 
 I'll expand on it in my future post, but here's my fundamental thesis: [we consume too much]({{site.url}}/feeds-considered-harmful) and [act too little]({{site.url}}/thought-space-vs-reality). The secret to self-improvement is not the latest self-help book, but this simple feedback loop: take deliberate action, reflect candidly, repeat. This compounds over time - the tighter the loop, the faster your progress.
+
+***Year 2 Update: The business is [Habit Gym](https://www.thehabitgym.com) and here's the [manifesto]({{site.url}}/habit-gym).***
 
 Current status: The business is small, but profitable. There are many paying customers that have experienced significant progress using it. I haven’t reached product-market fit, but I am certain that there is a kernel of value - the product just needs to be distilled down to that.
 
@@ -229,6 +229,7 @@ What I learned:
 	> Life can be much broader, once you discover one simple fact, and that is everything around that you call life was made up by people who were no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. Once you learn that, you'll never be the same again.
 
 	I heard this many years ago, but I finally understand (experientially!) its depth. I put my energy out there and people responded. This gave me a newfound sense of opportunity and optimism. The world feels ready for the taking.
+
 * **You have to love the process.** Entrepreneurship is a grind. There are many ups and downs - it's a constant process of failure and iteration. If you don't enjoy the journey, you won't have the resilience to make it through. (Just like your habits!) Fortunately, I love every moment of it.
 
 Goal for next year: Hit $5,000 in monthly revenue.
@@ -252,3 +253,7 @@ It *is* a risk, but a calculated one. My thought process from when I quit still 
 > My only cost is opportunity cost, while the payoff is an infinitely richer life. I call it an experiment because I acknowledge that perhaps I can’t have it all - maybe I’m idealizing post-work life and I took my previous life for granted. However, even failure would be a minor success. If I ever have to go back to a job, I’ll be able to better cope with it due to a solid foundation of health, happiness and effectiveness. Also, by experiencing both extremes I’ll gain the perspective to strike a better balance and will be immune to the grass is greener syndrome. As far as worst cases go, that’s about as good as it gets - it would have been crazy not to [take the leap]({{site.url}}/taking-the-leap) and see what happens.
 
 To put it another way, what am I going to remember on my deathbed: that I made a living or that I lived a life?
+
+### Updates
+
+* **[Dec 22, 2022] [Year 2 Reflection]({{site.url}}/year-two-reflection)**
