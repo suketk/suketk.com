@@ -54,7 +54,3 @@ This shifts the momentum in your favor. You regain confidence and flex your habi
 There are many ways to implement this. I’m particularly fond of the Two-Day Rule. It’s simple: never skip two days in a row. Without it, it’s easy to grind to a halt and not even notice.
 
 You can create your own rules, too. The important thing is that they snap you back into a routine and keep the momentum. Remember: your habits have [inertia]({{site.url}}/inertia) and [if you’re not growing, you’re dying]({{site.url}}/you're-either-growing-or-you're-dying).
-
-<!-- {% include writing-time.html time="250" %} -->
-
-<!-- {% include tweet.html link="https://twitter.com/_suketk/status/1608942698618314753" %} -->
