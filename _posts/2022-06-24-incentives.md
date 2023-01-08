@@ -20,3 +20,5 @@ Incentives don’t always have to be in conflict with the customer. [Vipassana](
 I was so inspired by this model that I adapted it for my own business: an accountability platform. Users can set a penalty, but it goes to charity if they miss their goal. I don’t profit off their failure. If they hit their goal, they can pay me what it was worth to them. By aligning our incentives, I can go the extra mile to support and motivate them. Their success is in both of our best interests.
 
 Next time you use a product or service, ask yourself what their incentives are. Follow the money - see their business model. Is it aligned with your goals? If not, maybe it’s time to pursue an alternative… or create one!
+
+{% include epilogue.md %}

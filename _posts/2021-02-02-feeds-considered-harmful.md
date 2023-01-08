@@ -29,6 +29,8 @@ Speaking of execution, here’s how to reduce your dependence on feeds:
 
 Side effects may include mild FOMO (which will soon subside), an enhanced feeling of control and excessive amounts of spare time to live life on your terms, not the Algorithm’s.
 
+{% include epilogue.md %}
+
 <!-- {::options parse_block_html="true" /}
 <div class="highlight-card">
 *Want to use technology more intentionally, but keep getting sucked back in? Join a Moai - an intimate social support group that holds you accountable, provides motivation and lets you learn from other's mistakes. **Sign up [here](https://forms.gle/3STBq7mkP1Z5SczC6){:target="_blank"}.***

@@ -257,3 +257,5 @@ To put it another way, what am I going to remember on my deathbed: that I made a
 ### Updates
 
 * **[Dec 22, 2022] [Year 2 Reflection]({{site.url}}/year-two-reflection)**
+
+{% include epilogue.md %}

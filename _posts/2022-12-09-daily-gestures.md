@@ -32,3 +32,5 @@ We take the people closest to us for granted. We assume they know what they mean
 I’ve talked about celebrating people through [weddings]({{site.url}}/don't-wait-to-celebrate) and [birthdays]({{site.url}}/birthday-calls), but they are so few and far between. It’s important to do it on a more regular basis too: that’s why I touch my parents' feet every morning.
 
 How are you going to appreciate your loved ones?
+
+{% include epilogue.md %}

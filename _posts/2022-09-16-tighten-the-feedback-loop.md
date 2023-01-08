@@ -67,3 +67,5 @@ First, they charge you the penalty if you fail to hit your goal. However, failur
 Second, they have misaligned [incentives]({{site.url}}/incentives). Their business model is to take a cut of your penalty. They only make money when you fail. My solution: users are charged to charity (not me) if they fail. They pay me for the service only when they have completed a program and witnessed the results. As a result, I only make money if they succeed.
 
 *Sound vague or simplistic? Stay tuned - it all comes together with the remaining segments of the series!*
+
+{% include epilogue.md %}

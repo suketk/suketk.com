@@ -4,6 +4,7 @@ title:  "Writing is like taking a shit."
 date:   2023-01-02 12:00:00 -0500
 description: You can't always get it out.
 writing_time: 80
+tweet: https://twitter.com/_suketk/status/1611470971604451328
 ---
 
 Writing is like taking a shit.
@@ -21,3 +22,5 @@ Here’s how.
 First, add literary fiber. Read about diverse topics. Talk to people with different perspectives. Reflect on your ideas and experiences. These lubricate your ability to communicate.
 
 Then, train your body. Sit down every day. Same time. Same place. Same environment. You form a habit and slowly, the juices start flowing. Before you know it, you are done.
+
+{% include epilogue.md %}

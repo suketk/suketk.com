@@ -50,3 +50,5 @@ This allows you to be proactive instead of reactive; to focus on the important i
 #### Diversification
 
 Together, timeboxing and prioritization are a powerful combination. Prioritization helps you determine what tasks are important. Timeboxing helps you split time across them. Equipped with both, you can diversify your effort and move the ball forward on several fronts at a time - efficiently and effectively.
+
+{% include epilogue.md %}

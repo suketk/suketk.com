@@ -17,3 +17,5 @@ Prolonged time in thought space doesn’t just slow us down. It leads us astray 
 Thought space alone does not move us forward. Reading a book on productivity doesn’t make you more effective. Listening to a startup podcast doesn’t make you a better entrepreneur. Watching a cooking video doesn’t make you a better chef. Action is the interface between thought space and the real world - we actualize our ideas by doing. Knowledge is merely potential energy. Only when applied, does it translate to growth. If not, it just creates an illusion of progress. (This exemplifies the explore/exploit framework discussed in this [previous essay]({{site.url}}/feeds-considered-harmful).)
 
 Next time you’re doing anything, ask yourself this question: am I operating in thought space or reality? This awareness helps you identify your untested assumptions and induces a general bias towards action. By tightening the feedback loop, you empower yourself to simultaneously build a better map and conquer the territory.
+
+{% include epilogue.md %}

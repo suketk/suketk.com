@@ -17,3 +17,5 @@ It requires effort to just start. Since you haven’t experienced the benefits y
 It also demands room in your schedule. Before you can even start, you need time to prepare. You have to research the exercises, buy your gear and register for a gym. When you finally start, it still takes much longer than it should. There are kinks that have to be ironed out. On the bright side, these are just one-time costs. For example, you had to wait for every machine because you went at peak time. As a result, you learn to arrive earlier to avoid the rush. You address the inefficiencies one mistake at a time and streamline your routine.
 
 Every successive repetition makes the habit easier. Over time, it becomes second nature. You don’t face resistance. Since you’ve experienced the benefits, you focus on the outcome instead of the effort. It also becomes more efficient. You figure out how to squeeze it into the nooks and crannies of your schedule as you optimize it. This is habit compaction at work - it occupies less time and energy as you repeat it, leaving more room for you to add new habits on top.
+
+{% include epilogue.md %}

@@ -18,3 +18,5 @@ Hard work is exercising self-control for your impulses. It’s resisting the urg
 Hard work is carrying on even when you’re stuck or tired. It’s staying on the page and not escaping to your phone when you have writer’s block *(that's me right now)*.
 
 Not only is it hard, it's also inevitable. These challenges are bound to arise on the path to achieving your goals. So when you’re having a difficult time, remember that it’s normal. It *is* the process. It’s your choice to give in to it or not, but as we all know… [the only way out is through]({{site.url}}/only-way-out-is-through).
+
+{% include epilogue.md %}

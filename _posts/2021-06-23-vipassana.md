@@ -73,3 +73,5 @@ Contrast this with Headspace; in terms of meditation-hours, 10 days of Vipassana
 So, I'm not promising that Vipassana is going to change your life... but isn’t 10 days a small price to pay to find out?
 
 For more info, here's their site: [dhamma.org](https://www.dhamma.org/).
+
+{% include epilogue.md %}

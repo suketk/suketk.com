@@ -53,3 +53,5 @@ It’s like being upset that it’s raining back home while you’re on a sunny 
 Sure, people will make fun of you. You will lose respect. You may even lose friends. That’s ok. They just weren’t on the same wavelength. Sometimes, you have to clean house in order to start anew; a phoenix rising from the ashes.
 
 Your authenticity will self-select for the right environment. It broadcasts who you are and what matters. I promise, your people will find it and tune in… and they will be worth it.
+
+{% include epilogue.md %}

@@ -16,3 +16,5 @@ The cheap solution is expensive - it results in more consumption over time. Say 
 The free solution is dangerous - it leads to the adoption of products with perverse [incentives]({{site.url}}/incentives). Consider Meta. Everyone uses Facebook/Instagram/WhatsApp because they’re free. They are free because they want to maximize engagement, which in turn leads to ad revenue. What we don’t pay with our dollars, we pay with our attention… not to mention our mental health and democracy. Is it really free, then?
 
 Next time you’re evaluating a solution, consider the tradeoffs. Especially the long-term costs. Don’t get caught up in short-term thinking. It leads to death by a thousand cuts. Put the extra work in and do it right the first time - it’s cheaper in the long run.
+
+{% include epilogue.md %}

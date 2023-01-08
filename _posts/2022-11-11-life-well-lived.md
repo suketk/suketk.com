@@ -35,3 +35,5 @@ This is what I learned: **time spent is not a measure of life lived - *how* you 
 For a life well lived, you have to act with urgency and focus. Define a clear set of priorities and attack them. The more you do what’s meaningful to you, the more you dot your life with rich memories that stem from those fulfilling experiences.
 
 Here’s one way I plan on doing this: waking up early. Whenever I have an early start, I always get so much done. When I get up late, it feels like the day just disappeared. I want to go to bed knowing that I made full use of every day. We’re only here for a short time, so why waste it?
+
+{% include epilogue.md %}

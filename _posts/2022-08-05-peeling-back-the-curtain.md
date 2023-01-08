@@ -27,6 +27,6 @@ I already know that I'll be embarassed about the time I spent writing this, but 
 
 So here's my problem: *this post took me 380 minutes :/*.
 
---
+{% include epilogue.md %}
 
 *Update: As of Nov 2022, only email subscribers will have access to writing times.*

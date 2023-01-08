@@ -56,3 +56,5 @@ For 1 serving, you need:
 Mix the first five ingredients together in a bowl and set them in the fridge overnight. In the morning, cut the banana into it and mix. Enjoy!
 
 *A long backstory followed by a recipe at the very end… maybe this was a food blog all along?*
+
+{% include epilogue.md %}

@@ -22,3 +22,5 @@ Of course, everyone *wants* to be a well-fed artist. More money. More time. More
 I chose a middle path. I [left my lucrative job]({{site.url}}/why-i-quit-google), but not to create full-time… at least in the conventional sense. Eventually, I aspire to write books, perform stand-up and host podcasts. In the meantime, I’m building a business. It’s a win-win. It scratches the itch of creation and (partially) supports me financially. I get to innovate and craft a product that’s never existed before. I have the privilege of sharing it with the world and observing its impact.
 
 Most importantly, it gives me optionality if I fail. If it takes off, I can become financially independent and a well-fed artist. If it doesn’t, I gained business experience and made money while doing something I enjoy. I’m sure that can be parlayed into something bigger. It’s either a straight shot to my goal or a stepping stone - no matter what, I’m moving forward.
+
+{% include epilogue.md %}

@@ -12,3 +12,5 @@ But raw effort isn’t enough. Quality and quantity matters too. Push the boulde
 That is the nature of obstacles. Until you reach the activation energy, your effort is in vain. If you want results, you have to put in the work to go all the way. The effort comes first; the payoff later.
 
 The next time you contemplate giving up halfway, remember this. It’s all or nothing - there is no partial credit. As long as the problem persists, some effort is as good as none. Why not finish what you started? The problem isn’t going to resolve itself, so the only way out is *through*.
+
+{% include epilogue.md %}

@@ -26,3 +26,5 @@ Second, to be held accountable. Announcing it to the world makes me more likely 
 Third, so you can follow me on this journey. I hope it encourages you to do the same - [act first, think later]({{site.url}}/thought-space-vs-reality).
 
 Onwards and upwards!
+
+{% include epilogue.md %}

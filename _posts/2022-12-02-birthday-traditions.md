@@ -60,3 +60,5 @@ Am I overestimating what people are willing to do for my birthday? Perhaps. Itâ€
 Let's start here. To my readers: have feedback about absolutely anything? [Tell me](https://docs.google.com/forms/d/e/1FAIpQLSeaTDQNt6wSZuBjLE6dRQXhgYsPaBvHU3wbCgsLuWQe0z-XsQ/viewform) - I'd love to hear from you (you can be anonymous)!
 
 To people I know: thereâ€™s a separate form for personal feedback, please reach out for it.
+
+{% include epilogue.md %}
