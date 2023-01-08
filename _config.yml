@@ -28,6 +28,9 @@ header_pages:
     title: Habit Gym
     url: https://www.thehabitgym.com
 
+feed:
+  posts_limit: 100
+
 google_analytics: G-4SGNVDRFF7
 
 twitter_username: "_suketk"
