@@ -18,7 +18,7 @@ The feeling is dissonance. The lack of alignment. A calling to be my authentic s
 
 In a way, I’ve been on the quest for authenticity since I quit. I set out to find what matters to me and manifest it. Recently, I leaned into it - no matter how strange it seemed.
 
-I value self-development, so I asked my friends for [constructive feedback on my birthday]({{site.url}}/birthday-feedback). I care about expressing my love, so I [touch my parents feet every morning]({{site.url}}/daily-gestures). Heck, last week I drew an [elaborate analogy between writing and defecating]({{site.url}}/writing-is-like-taking-a-shit).
+I value self-development, so I asked my friends for [constructive feedback on my birthday]({{site.url}}/birthday-traditions). I care about expressing my love, so I [touch my parents feet every morning]({{site.url}}/daily-gestures). Heck, last week I drew an [elaborate analogy between writing and defecating]({{site.url}}/writing-is-like-taking-a-shit).
 
 This year, I want to take it even further.
 
