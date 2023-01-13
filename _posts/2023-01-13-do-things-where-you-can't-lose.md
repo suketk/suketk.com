@@ -74,7 +74,7 @@ Plus, there’s a real shot to appeal to a broader audience. Though we approach 
 
 ### Habit Gym
 
-I built [Habit Gym](https://wwww.thehabitgym.com) with a similar mindset.
+I built [Habit Gym](https://www.thehabitgym.com) with a similar mindset.
 
 The three levels of success:
 1. I get my feet wet in running a business.
