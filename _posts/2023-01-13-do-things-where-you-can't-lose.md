@@ -104,3 +104,5 @@ I still haven’t unlocked the final stage of success, though. The real icing on
 Grow on a personal level, help others live their best lives and support yourself while doing it - wouldn’t that be amazing?
 
 > “Shoot for the moon. Even if you miss, you’ll land among the stars.” - Norman Vincent Peale
+
+{% include epilogue.md %}
