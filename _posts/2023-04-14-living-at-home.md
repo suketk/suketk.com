@@ -2,7 +2,7 @@
 layout: post
 title:  "Takeaways From Living at Home"
 date:   2023-04-14 12:00:00 -0500
-description: How to apply them even if you don't live at home.
+description: Lessons that you can apply even if you don't live at home.
 writing_time: 260
 ---
 
