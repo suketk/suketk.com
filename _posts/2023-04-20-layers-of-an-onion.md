@@ -2,7 +2,7 @@
 layout: post
 title:  "Layers of an Onion"
 date:   2023-04-20 12:00:00 -0500
-description: Eliminating your vices is a gradual process.
+description: Eliminating your vices is an incremental process.
 writing_time: 200
 ---
 
