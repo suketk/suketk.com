@@ -47,7 +47,7 @@ Success isn’t guaranteed on the first attempt. In order to win, you need to ke
 
 **Takeaway: For long-term games, prioritize your ability to just stay in the game. Time in the market beats timing the market.**
 
-How you can apply it: even if staying at home isn’t a viable option, you can extend your runway by living frugally or supplementing your venture with an income-generating activity
+How you can apply it: even if staying at home isn’t a viable option, you can extend your runway by living frugally or supplementing your venture with an income-generating activity.
 
 
 ### Optimize your environment
