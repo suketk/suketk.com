@@ -6,7 +6,7 @@ description: The art of being brutally honest, but constructively.
 writing_time: 330
 ---
 
-*Context: This is a series where I dive into nuggets of wisdom that[ Habit Gym](https://www.thehabitgym.com) participants self-discover through the program.*
+*Context: This is a series where I dive into nuggets of wisdom that [Habit Gym](https://www.thehabitgym.com) participants self-discover through the program.*
 
 This week, we’re featuring Greg’s check-in.
 
