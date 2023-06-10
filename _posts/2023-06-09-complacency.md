@@ -2,7 +2,7 @@
 layout: post
 title:  "Complacency"
 date:   2023-06-09 12:00:00 -0500
-description: Admitting my greatest flaw.
+description: My Achilles' heel.
 writing_time: 700
 ---
 

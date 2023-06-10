@@ -36,7 +36,7 @@ Despite both of these upsets, what odds does ESPN give the Heat against the Celt
 
 This is a good time to mention Jimmy Butler, the Heat’s best player. He wasn’t always a star. He was drafted 30th in his year (50th percentile) and wasn’t expected to be more than a role player. The first few seasons, he was just that. Then, he had a breakout year and there was no looking back.
 
-Well, except for the chip on his shoulder. When he eliminated the Philadelphia 76ers last year, he famously exclaimed[ “Tobias Harris over me?”](https://www.youtube.com/watch?v=t6L3qmInqS0), referring to a Sixers player that was drafted above him.
+Well, except for the chip on his shoulder. When he eliminated the Philadelphia 76ers last year, he famously exclaimed[ “Tobias Harris over me?!”](https://www.youtube.com/watch?v=t6L3qmInqS0), referring to a Sixers player that was drafted above him.
 
 To many, this level of competitiveness seems unhealthy. To me, it’s just self-confidence.
 
@@ -45,6 +45,8 @@ And it works. Fast forward 3 games later, they’re up 3-0 against the Celtics (
 That’s my takeaway from Jimmy Butler and the Miami Heat: believe in yourself. Don’t listen to the naysayers. It’s easy to get trapped in the box that they put you in. The only way out is having confidence in your own abilities. After all, who knows you better than you?
 
 *Note: I wrote the above a few days ago. Since then, Boston won the next three games and tied the series 3-3. Currently, it's halftime of Game 7 and Miami is up by 11 points. Whether or not they win, the point holds: they surpassed everyone's expectations by believing in themselves.*
+
+[![Tobias Harris over me?!](https://img.youtube.com/vi/t6L3qmInqS0/0.jpg)]((https://www.youtube.com/watch?v=t6L3qmInqS0)
 
 ### Focus on the present
 
