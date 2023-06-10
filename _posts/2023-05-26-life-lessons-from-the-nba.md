@@ -46,7 +46,7 @@ That’s my takeaway from Jimmy Butler and the Miami Heat: believe in yourself. 
 
 *Note: I wrote the above a few days ago. Since then, Boston won the next three games and tied the series 3-3. Currently, it's halftime of Game 7 and Miami is up by 11 points. Whether or not they win, the point holds: they surpassed everyone's expectations by believing in themselves.*
 
-[![Tobias Harris over me?!](https://img.youtube.com/vi/t6L3qmInqS0/0.jpg)]((https://www.youtube.com/watch?v=t6L3qmInqS0)
+[![Tobias Harris over me?!](https://img.youtube.com/vi/t6L3qmInqS0/0.jpg)](https://www.youtube.com/watch?v=t6L3qmInqS0)
 
 ### Focus on the present
 
