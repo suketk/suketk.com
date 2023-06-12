@@ -8,11 +8,13 @@ writing_time: 700
 
 #### Acknowledgements
 
-Before I start, a profound thank you to all the truth-tellers in my life.
+Before I start, I wanted to sincerely thank all the truth-tellers in my life.
 
 On my last birthday, I asked my friends to give me the [gift of feedback]({{site.url}}/birthday-traditions).
 
-One of them was Bhargee, whose honesty precipitated this major realization:
+One of them was Bhargee, whose honesty precipitated this major realization.
+
+Here's what he said:
 
 > As long as I’ve known you, you’ve managed to be conventionally successful without working very hard. When I stayed with you, I was struck at how, given your situation (quit job to start a business), you were not working as hard as I would have expected. Of all the people I know, you have the greatest chance of achieving success in this laid back way, but I have misgivings about whether the success you desire can be achieved like this. I could be wrong, but at least consider the fact that you may not be working hard enough to achieve the kind of success you want.
 
