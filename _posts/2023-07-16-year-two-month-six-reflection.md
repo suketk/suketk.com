@@ -165,7 +165,7 @@ But I haven’t lost hope yet. As painful as it is, confronting the truth every 
 
 Every night, I tracked my level of effort. More importantly, I listed out the reasons why I fell short.
 
-One cultprit stood out: my post-lunch lull.
+One culprit stood out: my post-lunch lull.
 
 Since I get sluggish after lunch, I’m not in the mood to start working immediately. Using my brain feels too taxing.
 
