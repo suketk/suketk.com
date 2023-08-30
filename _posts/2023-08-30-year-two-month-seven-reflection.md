@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "July 2023 Reflection"
-date:   2023-08-30 00:00:00 -0500
+date:   2023-08-30 12:00:00 -0500
 description: Phoenix rising from the ashes.
 writing_time: 400
 ---
