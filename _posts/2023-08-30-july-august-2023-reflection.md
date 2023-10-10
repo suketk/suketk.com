@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "July 2023 Reflection"
+title:  "July/August 2023 Reflection"
 date:   2023-08-30 12:00:00 -0500
 description: Phoenix rising from the ashes.
 writing_time: 400
@@ -10,7 +10,7 @@ writing_time: 400
 
 --
 
-This month was even worse than the last. I regressed further.
+This month was even worse than the [last]({{site.url}}/june-2023-reflection). I regressed further.
 
 Strangely though, it felt like a step in the right direction.
 
@@ -70,7 +70,7 @@ That being said, I enjoyed doing each of them and want to continue. I believe it
 
 ### Effectiveness
 
-These were my effectiveness goals:
+These were my effectiveness goals for the month:
 
 * Eliminate unproductive distractions, especially during work hours.
 * No naps. Do a standing work session after lunch and have tea.
@@ -161,7 +161,7 @@ Going forward, I’ll be disciplined about having fewer priorities and more expl
 
 ### Projects
 
-These were my project goals:
+These were my project goals for the month:
 
 * Habit Gym
     * Launch mobile app.
@@ -177,7 +177,7 @@ The Android and iOS apps for Habit Gym are published, though a few weeks later t
 
 This reinforced an earlier lesson to plant seeds. Progress takes time. Make sure to kick off workstreams early so they’re ready when you need them.
 
-**Lesson: Plant seeds early so you can reap the rewards later.**
+**Lesson: [Plant seeds]({{site.url}}/plant-seeds) early so you can reap the rewards later.**
 
 #### One Last Shot
 

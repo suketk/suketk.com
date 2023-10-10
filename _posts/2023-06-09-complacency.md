@@ -24,9 +24,9 @@ Ok, let's dive in!
 
 ### A bitter realization
 
-[April was an incredible month]({{site.url}}/year-two-month-four-reflection). Coming off the heels of an [existential crisis]({{site.url}}/existential-crisis), I [climbed out of a rut]({{site.url}}/ruts) and was locked in with my priorities. However, I didn’t do a great job carrying the momentum the next month.
+[April was an incredible month]({{site.url}}/april-2023-reflection). Coming off the heels of an [existential crisis]({{site.url}}/existential-crisis), I [climbed out of a rut]({{site.url}}/ruts) and was locked in with my priorities. However, I didn’t do a great job carrying the momentum the next month.
 
-[May wasn’t a complete backslide, but it was a slight regression]({{site.url}}/year-two-month-five-reflection). That sums up my typical pattern: two steps forward, one step back.
+[May wasn’t a complete backslide, but it was a slight regression]({{site.url}}/may-2023-reflection). That sums up my typical pattern: two steps forward, one step back.
 
 Upon further reflection, it dawned on me: I have a tendency to get complacent. And it’s about time that I address it.
 

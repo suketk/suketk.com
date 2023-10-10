@@ -6,7 +6,7 @@ description: Two steps forward, one step back.
 writing_time: 300
 ---
 
-May was a decent month. I met many of my goals and none of my habits fell entirely to the wayside. Still, it was a slight regression from [April]({{site.url}}/year-two-month-four-reflection) - good, but not great.
+May was a decent month. I met many of my goals and none of my habits fell entirely to the wayside. Still, it was a slight regression from [April]({{site.url}}/april-2023-reflection) - good, but not great.
 
 It finally dawned on me that this is my default pattern: two steps forward, one step back. The moment I begin to gain momentum, I take my foot off the gas.
 
