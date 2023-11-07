@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "October 2023 Reflection"
-date:   2023-11-06 12:00:00 -0500
+date:   2023-11-07 12:00:00 -0500
 description: A shift in priorities.
-writing*time: 450
+writing_time: 450
 ---
 
 Though I slowed down in October, I’m still moving in the right direction.
