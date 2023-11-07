@@ -17,7 +17,7 @@ From my [last reflection]({{site.url}}/july-august-2023-reflection):
 > It led to an important realization: I was on track to fail unless I made major changes.
 >
 > This was the breaking point that I needed. Sometimes, everything has to burn down before you can rebuild.
-> 
+>
 > Now, I have a renewed sense of optimism. It feels like the start of a new chapter: a phoenix rising from the ashes.
 
 My intuition was right. It *was* an inflection point.
@@ -30,7 +30,7 @@ All it took was a hard reset of my priorities.
 
 This tweet is a good analogy.
 
-{% include tweet.html link='https://twitter.com/BillDA/status/1633910895716843522](https://twitter.com/BillDA/status/1633910895716843522' %}
+{% include tweet.html link='https://twitter.com/BillDA/status/1633910895716843522' %}
 
 See, I also accumulated a lot of cruft over the years. When something didn’t work, I responded by setting a new goal or habit. I never eliminated; I only added.
 
