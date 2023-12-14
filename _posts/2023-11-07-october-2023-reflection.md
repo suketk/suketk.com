@@ -174,7 +174,7 @@ In essence, I’m applying the same principle to my life that I use for business
 
 My goals for next month:
 
-* Projects
+* Ventures
     * Physical Goods: Prepare shipment for one order and reach out to 100 new customers.
     * Software Marketplace: Acquire 10 leads organically through a repeatable process.
     * AI QR Codes: Get 1 paying customer.
