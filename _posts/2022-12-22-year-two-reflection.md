@@ -32,7 +32,7 @@ However, I wasn’t able to balance both very well. Some of my healthy habits fe
 
 **The goal of this year (Year 2) was to set myself back on track.**
 
-It was a modest success. I worked on my healthy habits and the business simultaneously. I developed resilience - I picked myself back up quickly after failing. As a whole, I’m operating at a higher baseline than I ever was. 
+It was a modest success. I worked on my healthy habits and the business simultaneously. I developed resilience - I picked myself back up quickly after failing. As a whole, I’m operating at a higher baseline than I ever was.
 
 There’s still room for improvement. Revenge bedtime procrastination, distractions and perfectionism to be challenges. Habit Gym is bottlenecked by distribution. In general, I need to get more serious if I want to succeed.
 
@@ -42,7 +42,7 @@ Let’s dive in.
 
 “Two steps forward, one step back” sums up my progress with health and happiness this year.
 
-I fell back on most of my goals, However, nothing went to zero. Each habit maintained a strong presence in my life, despite anything else going on. This was the year that I became certain that these habits are entrenched. They are here to stay.
+I fell back on most of my goals. However, nothing went to zero. Each habit maintained a strong presence in my life, despite anything else going on. This was the year that I became certain that these habits are entrenched. They are here to stay.
 
 #### Meditation
 

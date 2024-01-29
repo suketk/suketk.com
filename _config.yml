@@ -24,9 +24,9 @@ permalink: /:title
 header_pages:
   - about.md
   - subscribe.md
-  - external: true
-    title: Habit Gym
-    url: https://www.thehabitgym.com
+  # - external: true
+  #   title: Habit Gym
+  #   url: https://www.thehabitgym.com
 
 google_analytics: G-4SGNVDRFF7
 
