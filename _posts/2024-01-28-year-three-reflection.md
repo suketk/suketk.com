@@ -202,7 +202,7 @@ At the same time, I still took a few trips to explore and meet my loved ones. I 
 
 **Goal for next year:** Take part in experiences while keeping focus on work.
 
-#### Impact
+### Impact
 
 **Goal:** Scale it even further. Reach an audience of 1m people through my work.
 
